@@ -3,6 +3,7 @@
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
+191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 238. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
