@@ -1,5 +1,6 @@
 ##Solved Problems on LeetCode
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
+70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
