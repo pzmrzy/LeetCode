@@ -10,3 +10,4 @@
 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
 292. [Nim Game](https://leetcode.com/problems/nim-game/)
+326. [Power of Three](https://leetcode.com/problems/power-of-three/)
