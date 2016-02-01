@@ -1,5 +1,6 @@
 ##Solved Problems on LeetCode
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
+9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
