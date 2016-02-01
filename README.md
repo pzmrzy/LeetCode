@@ -5,6 +5,7 @@
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+136. [Single Number](https://leetcode.com/problems/single-number/)
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
 191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
