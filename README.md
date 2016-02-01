@@ -2,6 +2,7 @@
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+66. [Plus One](https://leetcode.com/problems/plus-one/)
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
