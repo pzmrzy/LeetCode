@@ -5,6 +5,7 @@
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 66. [Plus One](https://leetcode.com/problems/plus-one/)
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 136. [Single Number](https://leetcode.com/problems/single-number/)
