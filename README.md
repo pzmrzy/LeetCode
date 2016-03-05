@@ -20,4 +20,5 @@
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
 292. [Nim Game](https://leetcode.com/problems/nim-game/)
+303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
