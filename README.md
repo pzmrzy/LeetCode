@@ -11,6 +11,7 @@
 119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 136. [Single Number](https://leetcode.com/problems/single-number/)
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
 191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 202. [Happy Number](https://leetcode.com/problems/happy-number/)
