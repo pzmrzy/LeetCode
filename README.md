@@ -9,6 +9,7 @@
 74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 136. [Single Number](https://leetcode.com/problems/single-number/)
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
