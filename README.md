@@ -18,6 +18,7 @@
 168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
 191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+198. [House Robber](https://leetcode.com/problems/house-robber/)
 202. [Happy Number](https://leetcode.com/problems/happy-number/)
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 228. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
