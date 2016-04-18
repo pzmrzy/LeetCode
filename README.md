@@ -9,6 +9,7 @@
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
