@@ -22,6 +22,7 @@
 191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 198. [House Robber](https://leetcode.com/problems/house-robber/)
 202. [Happy Number](https://leetcode.com/problems/happy-number/)
+206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 228. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
