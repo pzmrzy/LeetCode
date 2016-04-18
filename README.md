@@ -22,6 +22,7 @@
 198. [House Robber](https://leetcode.com/problems/house-robber/)
 202. [Happy Number](https://leetcode.com/problems/happy-number/)
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 228. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 231. [Power of Two](https://leetcode.com/problems/power-of-two/)
 238. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
