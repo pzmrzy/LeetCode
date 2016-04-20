@@ -12,6 +12,7 @@
 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 100. [Same Tree](https://leetcode.com/problems/same-tree/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
