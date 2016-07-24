@@ -4,23 +4,25 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
 import Queue
 class Solution(object):
-    def minDepth(self, root):
+    def hasPathSum(self, root, sum):
         """
         :type root: TreeNode
-        :rtype: int
+        :type sum: int
+        :rtype: bool
         """
         if root == None:
-            return 0
+            return False
         q = Queue.Queue()
-        q.put((root,1))
-        while True:
-            now, depth = q.get()
+        q.put((root,root.val))
+        while not q.empty():
+            now, s = q.get()
             if now.left == None and now.right == None:
-                return depth
+                if s == sum:
+                    return True
             if now.left != None:
-                q.put((now.left, depth+1))
+                q.put((now.left, now.left.val + s))
             if now.right != None:
-                q.put((now.right, depth+1))
+                q.put((now.right, now.right.val + s))
+        return False
