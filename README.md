@@ -46,3 +46,4 @@
 342. [Power of Four](https://leetcode.com/problems/power-of-four/)
 344. [Reverse String](https://leetcode.com/problems/reverse-string/)
 374. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+383. [Ransom Note](https://leetcode.com/problems/ransom-note/)
