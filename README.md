@@ -44,6 +44,7 @@
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
 290. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 292. [Nim Game](https://leetcode.com/problems/nim-game/)
+299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
 342. [Power of Four](https://leetcode.com/problems/power-of-four/)
