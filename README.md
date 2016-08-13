@@ -41,6 +41,7 @@
 238. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
+268. [Missing Number](https://leetcode.com/problems/missing-number/)
 273. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 278. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
