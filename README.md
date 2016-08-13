@@ -50,6 +50,7 @@
 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
 342. [Power of Four](https://leetcode.com/problems/power-of-four/)
+343. [Integer Break](https://leetcode.com/problems/integer-break/)
 344. [Reverse String](https://leetcode.com/problems/reverse-string/)
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 374. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
