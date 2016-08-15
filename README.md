@@ -57,6 +57,7 @@
 343. [Integer Break](https://leetcode.com/problems/integer-break/)
 344. [Reverse String](https://leetcode.com/problems/reverse-string/)
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 374. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 383. [Ransom Note](https://leetcode.com/problems/ransom-note/)
