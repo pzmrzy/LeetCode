@@ -37,6 +37,7 @@
 204. [Count Primes](https://leetcode.com/problems/count-primes/)
 206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+223. [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
 226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 228. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
 231. [Power of Two](https://leetcode.com/problems/power-of-two/)
