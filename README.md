@@ -9,6 +9,7 @@
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 62. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+65. [Valid Number](https://leetcode.com/problems/valid-number/)
 66. [Plus One](https://leetcode.com/problems/plus-one/)
 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
