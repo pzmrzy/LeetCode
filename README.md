@@ -63,6 +63,7 @@
 342. [Power of Four](https://leetcode.com/problems/power-of-four/)
 343. [Integer Break](https://leetcode.com/problems/integer-break/)
 344. [Reverse String](https://leetcode.com/problems/reverse-string/)
+345. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 350. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
