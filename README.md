@@ -70,3 +70,4 @@
 367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 374. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 383. [Ransom Note](https://leetcode.com/problems/ransom-note/)
+387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
