@@ -7,6 +7,7 @@
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+48. [Rotate Image](https://leetcode.com/problems/rotate-image/)
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 62. [Unique Paths](https://leetcode.com/problems/unique-paths/)
 65. [Valid Number](https://leetcode.com/problems/valid-number/)
