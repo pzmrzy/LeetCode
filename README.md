@@ -13,6 +13,7 @@
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 59. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 62. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+64. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 65. [Valid Number](https://leetcode.com/problems/valid-number/)
 66. [Plus One](https://leetcode.com/problems/plus-one/)
 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
