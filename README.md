@@ -7,6 +7,7 @@
 13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 15. [3Sum](https://leetcode.com/problems/3sum/)
+17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
