@@ -74,6 +74,7 @@
 318. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 319. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
+230. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 338. [Counting Bits](https://leetcode.com/problems/counting-bits/)
 342. [Power of Four](https://leetcode.com/problems/power-of-four/)
 343. [Integer Break](https://leetcode.com/problems/integer-break/)
