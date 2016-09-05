@@ -67,6 +67,7 @@
 268. [Missing Number](https://leetcode.com/problems/missing-number/)
 273. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 278. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+279. [how to prove 4^k(8\*m+7)????Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 283. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
 290. [Word Pattern](https://leetcode.com/problems/word-pattern/)
