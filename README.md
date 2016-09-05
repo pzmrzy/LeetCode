@@ -9,6 +9,7 @@
 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 15. [3Sum](https://leetcode.com/problems/3sum/)
 17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 27. [Remove Element](https://leetcode.com/problems/remove-element/)
