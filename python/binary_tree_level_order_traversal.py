@@ -13,8 +13,7 @@ class Solution(object):
             self.traversal(root.left, n + 1)
         if root.right != None:
             self.traversal(root.right, n + 1)
-        
-    def levelOrderBottom(self, root):
+    def levelOrder(self, root):
         """
         :type root: TreeNode
         :rtype: List[List[int]]
@@ -22,8 +21,9 @@ class Solution(object):
         if root == None:
             return []
         self.res = {}
+        #self.res[0]=[root.val]
         self.traversal(root, 0)
         ans = []
         for i in range(len(self.res)):
-            ans = [self.res[i]] + ans
+            ans.append(self.res[i])
         return ans
