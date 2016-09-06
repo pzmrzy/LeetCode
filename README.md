@@ -32,6 +32,7 @@
 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 94. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 100. [Same Tree](https://leetcode.com/problems/same-tree/)
+101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 108. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
