@@ -52,10 +52,11 @@
 131. [!!!Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 162. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
-172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+167. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
+171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailin
 191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 198. [House Robber](https://leetcode.com/problems/house-robber/)
 202. [Happy Number](https://leetcode.com/problems/happy-number/)
