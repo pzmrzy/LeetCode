@@ -14,6 +14,7 @@
 24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 27. [Remove Element](https://leetcode.com/problems/remove-element/)
+31. [Next Permutation](https://leetcode.com/problems/next-permutation/)
 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 42. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
