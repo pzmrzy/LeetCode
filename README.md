@@ -105,6 +105,7 @@
 347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 350. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+355. [Design Twitter](https://leetcode.com/problems/design-twitter/)
 357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 374. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
