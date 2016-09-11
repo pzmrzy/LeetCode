@@ -36,6 +36,7 @@
 75. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 78. [Subsets](https://leetcode.com/problems/subsets/)
 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+89. [Gray Code](https://leetcode.com/problems/gray-code/)
 94. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 100. [Same Tree](https://leetcode.com/problems/same-tree/)
 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
