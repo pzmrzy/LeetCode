@@ -108,6 +108,7 @@
 350. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 355. [Design Twitter](https://leetcode.com/problems/design-twitter/)
 357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+365. [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
 367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 374. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 376. [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
