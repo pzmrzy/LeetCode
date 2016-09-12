@@ -31,6 +31,7 @@
 64. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 65. [Valid Number](https://leetcode.com/problems/valid-number/)
 66. [Plus One](https://leetcode.com/problems/plus-one/)
+67. [Add Binary](https://leetcode.com/problems/add-binary/)
 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
