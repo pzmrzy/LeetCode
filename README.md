@@ -74,6 +74,8 @@
 202. [Happy Number](https://leetcode.com/problems/happy-number/)
 204. [Count Primes](https://leetcode.com/problems/count-primes/)
 206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+207. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+210. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 216. [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 223. [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
