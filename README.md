@@ -15,6 +15,7 @@
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 27. [Remove Element](https://leetcode.com/problems/remove-element/)
 31. [Next Permutation](https://leetcode.com/problems/next-permutation/)
+34. [Search for a Range](https://leetcode.com/problems/search-for-a-range/)
 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
