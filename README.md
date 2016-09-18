@@ -36,6 +36,7 @@
 67. [Add Binary](https://leetcode.com/problems/add-binary/)
 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+72. [Edit Distance](https://leetcode.com/problems/edit-distance/)
 74. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 75. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 78. [Subsets](https://leetcode.com/problems/subsets/)
