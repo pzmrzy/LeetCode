@@ -133,6 +133,7 @@
 383. [Ransom Note](https://leetcode.com/problems/ransom-note/)
 387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 389. [Find the Difference](https://leetcode.com/problems/find-the-difference/)
+390. [Elimination Game](https://leetcode.com/problems/elimination-game/)
 392. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 397. [Integer Replacement](https://leetcode.com/problems/integer-replacement/)
 398. [Random Pick Index](https://leetcode.com/problems/random-pick-index/)
