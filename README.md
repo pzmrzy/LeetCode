@@ -38,6 +38,7 @@
 65. [Valid Number](https://leetcode.com/problems/valid-number/)
 66. [Plus One](https://leetcode.com/problems/plus-one/)
 67. [Add Binary](https://leetcode.com/problems/add-binary/)
+68. [Text Justification](https://leetcode.com/problems/text-justification/)
 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 72. [Edit Distance](https://leetcode.com/problems/edit-distance/)
