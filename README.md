@@ -1,5 +1,6 @@
 ##Solved Problems on LeetCode
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
+2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
