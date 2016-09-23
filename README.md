@@ -73,6 +73,7 @@
 131. [!!!Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 135. [Candy](https://leetcode.com/problems/candy/)
 136. [Single Number](https://leetcode.com/problems/single-number/)
+139. [Word Break](https://leetcode.com/problems/word-break/)
 144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 145. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
