@@ -86,6 +86,7 @@
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailin-zeroes)
 189. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+190. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 198. [House Robber](https://leetcode.com/problems/house-robber/)
 199. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
