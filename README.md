@@ -55,6 +55,7 @@
 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 89. [Gray Code](https://leetcode.com/problems/gray-code/)
 91. [Decode Ways](https://leetcode.com/problems/decode-ways/)
+93. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
 94. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 96. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 100. [Same Tree](https://leetcode.com/problems/same-tree/)
