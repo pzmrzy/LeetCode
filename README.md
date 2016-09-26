@@ -161,4 +161,5 @@
 401. [Binary Watch](https://leetcode.com/problems/binary-watch/)
 402. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+405. [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
 406. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
