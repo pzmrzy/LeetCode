@@ -121,6 +121,7 @@
 263. [Ugly Number](https://leetcode.com/problems/ugly-number/)
 268. [Missing Number](https://leetcode.com/problems/missing-number/)
 273. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+274. [H-Index](https://leetcode.com/problems/h-index/)
 278. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 279. [how to prove 4^k(8\*m+7)????Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 283. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
