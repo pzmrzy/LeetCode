@@ -135,6 +135,7 @@
 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+310. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 312. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 318. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 319. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
