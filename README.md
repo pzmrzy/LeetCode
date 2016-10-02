@@ -119,6 +119,7 @@
 237. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 238. [!!!Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+257. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
 260. [Single Number III](https://leetcode.com/problems/single-number-iii/)
 263. [Ugly Number](https://leetcode.com/problems/ugly-number/)
