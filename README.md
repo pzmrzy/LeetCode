@@ -55,6 +55,7 @@
 78. [Subsets](https://leetcode.com/problems/subsets/)
 79. [Word Search](https://leetcode.com/problems/word-search/)
 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 89. [Gray Code](https://leetcode.com/problems/gray-code/)
 90. [Subsets II](https://leetcode.com/problems/subsets-ii/)
 91. [Decode Ways](https://leetcode.com/problems/decode-ways/)
