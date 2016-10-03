@@ -12,6 +12,7 @@
 15. [3Sum](https://leetcode.com/problems/3sum/)
 17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 19. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 22. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
