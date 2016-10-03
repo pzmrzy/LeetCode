@@ -21,6 +21,7 @@
 34. [Search for a Range](https://leetcode.com/problems/search-for-a-range/)
 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+38. [Count and Say](https://leetcode.com/problems/count-and-say/)
 39. [Combination Sum](https://leetcode.com/problems/combination-sum/)
 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 41. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
