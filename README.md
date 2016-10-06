@@ -176,6 +176,7 @@
 393. [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
 397. [Integer Replacement](https://leetcode.com/problems/integer-replacement/)
 398. [Random Pick Index](https://leetcode.com/problems/random-pick-index/)
+399. [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 401. [Binary Watch](https://leetcode.com/problems/binary-watch/)
 402. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
 404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
