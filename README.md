@@ -100,6 +100,7 @@
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailin-zeroes)
+173. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 179. [Largest Number](https://leetcode.com/problems/largest-number/)
 189. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 190. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
