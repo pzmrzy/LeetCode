@@ -175,6 +175,7 @@
 378. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 382. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 383. [Ransom Note](https://leetcode.com/problems/ransom-note/)
+384. [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
 387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 389. [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 390. [Elimination Game](https://leetcode.com/problems/elimination-game/)
