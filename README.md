@@ -124,6 +124,7 @@
 225. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 228. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+229. [Majority Element II](https://leetcode.com/problems/majority-element-ii/)
 230. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 231. [Power of Two](https://leetcode.com/problems/power-of-two/)
 232. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
