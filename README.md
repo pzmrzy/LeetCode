@@ -194,3 +194,4 @@
 412. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 413. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 415. [Add Strings](https://leetcode.com/problems/add-strings/)
+422. [Valid Word Square](https://leetcode.com/contest/9/problems/valid-word-square/)
