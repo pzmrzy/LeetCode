@@ -139,6 +139,7 @@
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
 260. [Single Number III](https://leetcode.com/problems/single-number-iii/)
 263. [Ugly Number](https://leetcode.com/problems/ugly-number/)
+266. [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 268. [Missing Number](https://leetcode.com/problems/missing-number/)
 273. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 274. [H-Index](https://leetcode.com/problems/h-index/)
