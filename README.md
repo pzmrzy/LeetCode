@@ -98,6 +98,7 @@
 167. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 169. [Majority Element](https://leetcode.com/problems/majority-element/)
+169. [Majority Element](https://leetcode.com/problems/majority-element/)
 171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 172. [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailin-zeroes)
 173. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
