@@ -1,3 +1,4 @@
+import random
 class Solution(object):
     def find(self, nums, k):
         l = len(nums)
@@ -31,5 +32,6 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        random.shuffle(nums)
         return self.find(nums, len(nums) - k + 1)
 
