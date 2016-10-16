@@ -150,6 +150,8 @@
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
 290. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 292. [Nim Game](https://leetcode.com/problems/nim-game/)
+293. [Flip Game](https://leetcode.com/problems/flip-game/)
+296. [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
