@@ -150,6 +150,7 @@
 274. [H-Index](https://leetcode.com/problems/h-index/)
 278. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 279. [how to prove 4^k(8\*m+7)????Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+280. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
 283. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
 287. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
