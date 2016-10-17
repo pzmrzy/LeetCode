@@ -17,7 +17,7 @@ public:
             }
         }
         int med = tot / 2;
-        nth_element(x.begin(), x.begin() + med, x.end());
+        //nth_element(x.begin(), x.begin() + med, x.end());
         nth_element(y.begin(), y.begin() + med, y.end());
         int midx = x[med];
         int midy = y[med];
