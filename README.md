@@ -173,6 +173,7 @@
 334. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
 337. [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 338. [Counting Bits](https://leetcode.com/problems/counting-bits/)
+339. [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
 342. [Power of Four](https://leetcode.com/problems/power-of-four/)
 343. [Integer Break](https://leetcode.com/problems/integer-break/)
 344. [Reverse String](https://leetcode.com/problems/reverse-string/)
