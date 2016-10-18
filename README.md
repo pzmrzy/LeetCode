@@ -158,6 +158,7 @@
 292. [Nim Game](https://leetcode.com/problems/nim-game/)
 293. [Flip Game](https://leetcode.com/problems/flip-game/)
 296. [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
+298. [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
