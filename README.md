@@ -178,6 +178,7 @@
 347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 350. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
 355. [Design Twitter](https://leetcode.com/problems/design-twitter/)
 357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 359. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
