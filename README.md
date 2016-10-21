@@ -172,6 +172,7 @@
 312. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
 318. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 319. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+323. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
 328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
 334. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
