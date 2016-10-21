@@ -200,6 +200,7 @@
 376. [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
 377. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 378. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+379. [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)
 382. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
 383. [Ransom Note](https://leetcode.com/problems/ransom-note/)
 384. [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
