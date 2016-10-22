@@ -145,6 +145,7 @@
 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 243. [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
 246. [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
+249. [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 252. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 257. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
