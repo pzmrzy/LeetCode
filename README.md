@@ -156,6 +156,7 @@
 263. [Ugly Number](https://leetcode.com/problems/ugly-number/)
 266. [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 268. [Missing Number](https://leetcode.com/problems/missing-number/)
+270. [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
 273. [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
 274. [H-Index](https://leetcode.com/problems/h-index/)
 276. [Paint Fence](https://leetcode.com/problems/paint-fence/)
