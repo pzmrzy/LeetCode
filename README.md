@@ -217,6 +217,7 @@
 390. [Elimination Game](https://leetcode.com/problems/elimination-game/)
 392. [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 393. [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+396. [Rotate Function](https://leetcode.com/problems/rotate-function/)
 397. [Integer Replacement](https://leetcode.com/problems/integer-replacement/)
 398. [Random Pick Index](https://leetcode.com/problems/random-pick-index/)
 399. [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
