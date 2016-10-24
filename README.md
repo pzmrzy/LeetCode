@@ -167,6 +167,7 @@
 280. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)
 283. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
 287. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+288. [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
 290. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 292. [Nim Game](https://leetcode.com/problems/nim-game/)
