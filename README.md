@@ -155,6 +155,7 @@
 257. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
 260. [Single Number III](https://leetcode.com/problems/single-number-iii/)
+261. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
 263. [Ugly Number](https://leetcode.com/problems/ugly-number/)
 266. [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 268. [Missing Number](https://leetcode.com/problems/missing-number/)
