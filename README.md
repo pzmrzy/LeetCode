@@ -150,6 +150,7 @@
 240. [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 243. [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)
+245. [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)
 246. [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)
 249. [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 252. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
