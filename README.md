@@ -185,6 +185,7 @@
 308. [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
 310. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 312. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+314. [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 318. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 319. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
 323. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
