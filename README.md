@@ -212,6 +212,7 @@
 356. [Line Reflection](https://leetcode.com/problems/line-reflection/)
 357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
 359. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+360. [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)
 365. [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
 366. [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)

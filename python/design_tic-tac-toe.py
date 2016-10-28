@@ -33,36 +33,34 @@ class TicTacToe(object):
         if player == 1:
             n = self.n
             self.xcol[col] += 1
+            if self.xcol[col] == n:
+                return 1
             self.xrow[row] += 1
+            if self.xrow[row] == n:
+                return 1
+                
             if col == row:
                 self.xd1 += 1
             if n - row - 1 == col:
                 self.xd2 += 1
-            for i in self.xcol:
-                if i == n:
-                    return 1
-            for i in self.xrow:
-                if i == n:
-                    return 1
+            
             if self.xd1 == n:
                 return 1
             if self.xd2 == n:
                 return 1
                 
         if player == 2:
-            self.ycol[col] += 1
-            self.yrow[row] += 1
             n = self.n
+            self.ycol[col] += 1
+            if self.ycol[col] == n:
+                return 2
+            self.yrow[row] += 1
+            if self.yrow[row] == n:
+                return 2
             if col == row:
                 self.yd1 += 1
             if n - row - 1 == col:
                 self.yd2 += 1
-            for i in self.ycol:
-                if i == n:
-                    return 2
-            for i in self.yrow:
-                if i == n:
-                    return 2
             if self.yd1 == n:
                 return 2
             if self.yd2 == n:
