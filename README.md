@@ -204,6 +204,7 @@
 345. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 346. [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+348. [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 350. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
