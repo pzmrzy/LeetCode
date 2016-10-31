@@ -256,4 +256,5 @@
 417. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 419. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
 422. [Valid Word Square](https://leetcode.com/contest/9/problems/valid-word-square/)
+425. [Word Squares](https://leetcode.com/problems/word-squares/)
 437. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
