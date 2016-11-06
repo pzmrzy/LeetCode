@@ -14,16 +14,6 @@ class Trie(object):
             now = now.letter[c]
         now.word = True
 
-    def dfs(self, root, w, res):
-        if root.word:
-            res.append(w)
-            return
-
-        for c in root.letter:
-            w.append(c)
-            self.dfs(root.letter[c], w, res)
-            del w[-1]
-
     def getPrefix(self, prefix, n):
         now = self.root
         ret = []
