@@ -221,6 +221,7 @@
 359. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 360. [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)
 362. [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)
+364. [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)
 365. [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
 366. [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
