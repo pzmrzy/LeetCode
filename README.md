@@ -254,6 +254,7 @@
 406. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
 408. [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)
 409. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+411. [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/)
 412. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 413. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
 414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
