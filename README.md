@@ -198,6 +198,7 @@
 314. [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 318. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
 319. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+320. [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)
 323. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
 328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
