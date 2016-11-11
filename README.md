@@ -162,6 +162,7 @@
 252. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 253. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 254. [Factor Combinations](https://leetcode.com/problems/factor-combinations/)
+256. [Paint House](https://leetcode.com/problems/paint-house/)
 257. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 258. [Add Digits](https://leetcode.com/problems/add-digits/)
 259. [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
