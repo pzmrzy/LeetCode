@@ -192,6 +192,7 @@
 290. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 292. [Nim Game](https://leetcode.com/problems/nim-game/)
 293. [Flip Game](https://leetcode.com/problems/flip-game/)
+294. [Flip Game II](https://leetcode.com/problems/flip-game-ii/)
 296. [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)
 298. [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)
 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
