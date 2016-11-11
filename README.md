@@ -181,6 +181,7 @@
 281. [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)
 283. [Move Zeores](https://leetcode.com/problems/move-zeroes/)
 285. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
+286. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
 287. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 288. [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/)
 289. [Game of Life](https://leetcode.com/problems/game-of-life/)
