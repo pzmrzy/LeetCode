@@ -97,6 +97,7 @@
 139. [Word Break](https://leetcode.com/problems/word-break/)
 144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 145. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+146. [LRU Cache](https://leetcode.com/problems/lru-cache/)
 151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 155. [Min Stack](https://leetcode.com/problems/min-stack/)
