@@ -202,6 +202,7 @@
 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 302. [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)
 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+307. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 308. [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)
 310. [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 312. [Burst Balloons](https://leetcode.com/problems/burst-balloons/)
