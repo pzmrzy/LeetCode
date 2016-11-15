@@ -1,39 +1,44 @@
+from collections import defaultdict
 class Solution(object):
-    dic = {}
-    def find(self, p):
-        if p != self.dic[p]:
-            t = self.find(self.dic[p])
-            self.dic[p] = t
-            return t
-        else:
-            return p
-    def join(self, p, q):
-        i = self.find(p)
-        j = self.find(q)
-        if i == j:
-            return
-        if i > j:
-            self.dic[q] = i
-        else:
-            self.dic[p] = j
     def longestConsecutive(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
         nums = list(set(nums))
-        for n in nums:
-            self.dic[n] = n
-        for n in nums:
-            if self.dic.has_key(n + 1):
-                self.join(n, n + 1)
-            if self.dic.has_key(n - 1):
-                self.join(n, n - 1)
+        def find(v):
+            if parent[v] != v:
+                parent[v] = find(parent[v])
+            return parent[v]
             
+        def union(v1, v2):
+            p1 = find(v1)
+            p2 = find(v2)
+            if p1 not in rank:
+                rank[p1] = 0
+            if p2 not in rank:
+                rank[p2] = 0
+            if p1 != p2:
+                if rank[p1] > rank[p2]:
+                    parent[p2] = p1
+                else:
+                    parent[p1] = p2
+                    if rank[p1] == rank[p2]:
+                        rank[p2] += 1
+                        
+        parent = {}
+        rank = {}
+        close = set()
         for n in nums:
-            self.find(n)
-        res = {}
-        for key in self.dic:
-            res.setdefault(self.dic[key], 0)
-            res[self.dic[key]] += 1
+            close.add(n)
+            parent[n] = n
+            if n - 1 in close:
+                union(n, n-1)
+            if n + 1 in close:
+                union(n, n + 1)
+        res = defaultdict(lambda: 0)
+        for n in nums:
+            find(n)
+        for i in parent.values():
+            res[i] += 1
         return max(res.values())
