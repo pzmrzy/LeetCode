@@ -140,6 +140,7 @@
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 219. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 223. [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 225. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
 226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
