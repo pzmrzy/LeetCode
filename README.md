@@ -24,6 +24,7 @@
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_duplicates_from_sorted_array.py)
 27. [Remove Element](https://leetcode.com/problems/remove-element/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_element.py)
 31. [Next Permutation](https://leetcode.com/problems/next-permutation/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/next_permulation.py)
+33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 34. [Search for a Range](https://leetcode.com/problems/search-for-a-range/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/search_for_a_range.py)
 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/search_insert_positon.py)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/valid_sudoku.py)
