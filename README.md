@@ -250,6 +250,7 @@
 369. [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/plus_one_linked_list.py)
 370. [Range Addition](https://leetcode.com/problems/range-addition/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/range_addition.py)
 372. [Super Pow](https://leetcode.com/problems/super-pow/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/super_pow.py)
+373. [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 374. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/guess_number_higher_or_lower.py)
 376. [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/wiggle_subsequence.py)
 377. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/combination_sum_IV.py)
