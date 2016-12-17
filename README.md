@@ -23,6 +23,7 @@
 24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/swap_nodes_in_pairs.py)
 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_duplicates_from_sorted_array.py)
 27. [Remove Element](https://leetcode.com/problems/remove-element/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_element.py)
+29. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 31. [Next Permutation](https://leetcode.com/problems/next-permutation/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/next_permulation.py)
 33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 34. [Search for a Range](https://leetcode.com/problems/search-for-a-range/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/search_for_a_range.py)
