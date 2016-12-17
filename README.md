@@ -30,6 +30,7 @@
 34. [Search for a Range](https://leetcode.com/problems/search-for-a-range/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/search_for_a_range.py)
 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/search_insert_positon.py)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/valid_sudoku.py)
+37. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 38. [Count and Say](https://leetcode.com/problems/count-and-say/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/count_and_say.py)
 39. [Combination Sum](https://leetcode.com/problems/combination-sum/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/combination_sum.py)
 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/combination_sum_II.py)
