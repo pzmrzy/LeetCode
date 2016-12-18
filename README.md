@@ -50,6 +50,7 @@
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/length_of_last_word.py)
 59. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/spiral_matrix_II.py)
 60. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutation_sequence.py)
+61. [Rotate List](https://leetcode.com/problems/rotate-list/)
 62. [Unique Paths](https://leetcode.com/problems/unique-paths/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/unique_paths.py)
 63. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/unique_path_II.py)
 64. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_path_sum.py)
