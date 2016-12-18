@@ -36,6 +36,7 @@
 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/combination_sum_II.py)
 41. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/first_missing_positive.py)
 42. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/trapping_rain_water.py)
+43. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 46. [Permutations](https://leetcode.com/problems/permutations/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutations.py)
 48. [Rotate Image](https://leetcode.com/problems/rotate-image/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/rotate_image.py)
