@@ -242,6 +242,7 @@
 349. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/intersection_of_two_arrays.py)
 350. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/intersection_of_two_array_ii.py)
 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/android_unlock_patterns.py)
+354. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
 355. [Design Twitter](https://leetcode.com/problems/design-twitter/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/design_twitter.py)
 356. [Line Reflection](https://leetcode.com/problems/line-reflection/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/line_reflection.py)
 357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/count_numbers_with_unique_digits.py)
