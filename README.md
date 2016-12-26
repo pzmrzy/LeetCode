@@ -225,6 +225,7 @@
 318. [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_product_of_word_lengths.py)
 319. [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/bulb_switcher.py)
 320. [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/generalized_abbreviation.py)
+321. [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
 323. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_of_connected_components_in_an_undirected_graph.py)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/power_of_three.cpp)
 328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/odd_even_linked_list.py)
