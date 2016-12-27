@@ -278,6 +278,7 @@
 397. [Integer Replacement](https://leetcode.com/problems/integer-replacement/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/interger_replacement.py)
 398. [Random Pick Index](https://leetcode.com/problems/random-pick-index/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/random_pick_index.py)
 399. [Evaluate Division](https://leetcode.com/problems/evaluate-division/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/evaluate_division.py)
+400. [Nth Digit](https://leetcode.com/problems/nth-digit/)
 401. [Binary Watch](https://leetcode.com/problems/binary-watch/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_watch.py)
 402. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_K_digit.py)
 404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_left_leaves.py)
