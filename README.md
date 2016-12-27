@@ -294,6 +294,7 @@
 421. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
 422. [Valid Word Square](https://leetcode.com/problems/valid-word-square/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/valid_word_square.py)
 423. [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reconstruct_original_digits_from_english.py)
+424. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 425. [Word Squares](https://leetcode.com/problems/word-squares/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_squares.py)
 433. [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
 435. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
