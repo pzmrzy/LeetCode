@@ -268,6 +268,7 @@
 382. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/linked_list_random_node.py)
 383. [Ransom Note](https://leetcode.com/problems/ransom-note/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/ransom_note.py)
 384. [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/384.shuffle_an_array.cpp)
+386. [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/first_unique_character_in_a_string.py)
 389. [Find the Difference](https://leetcode.com/problems/find-the-difference/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_the_difference.py)
 390. [Elimination Game](https://leetcode.com/problems/elimination-game/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/elimination_game.py)
