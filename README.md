@@ -298,6 +298,7 @@
 424. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 425. [Word Squares](https://leetcode.com/problems/word-squares/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_squares.py)
 433. [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+434. [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
 435. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 437. [Path Sum III](https://leetcode.com/problems/path-sum-iii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/path_sum_III.py)
 438. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_all_anagrams_in_a_string.py)
