@@ -274,6 +274,7 @@
 390. [Elimination Game](https://leetcode.com/problems/elimination-game/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/elimination_game.py)
 392. [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/is_subsequence.py)
 393. [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/UTF-8_validation.py)
+394. [Decode String](https://leetcode.com/problems/decode-string/)
 396. [Rotate Function](https://leetcode.com/problems/rotate-function/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/rotate_function.py)
 397. [Integer Replacement](https://leetcode.com/problems/integer-replacement/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/interger_replacement.py)
 398. [Random Pick Index](https://leetcode.com/problems/random-pick-index/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/random_pick_index.py)
