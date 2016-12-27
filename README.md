@@ -234,6 +234,7 @@
 337. [House Robber III](https://leetcode.com/problems/house-robber-iii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/house_robbrt_iii.py)
 338. [Counting Bits](https://leetcode.com/problems/counting-bits/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/counting_bits.py)
 339. [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/nested_list_wright_sum.cpp)
+341. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 342. [Power of Four](https://leetcode.com/problems/power-of-four/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/power_of_four.cpp)
 343. [Integer Break](https://leetcode.com/problems/integer-break/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/interger_break.py)
 344. [Reverse String](https://leetcode.com/problems/reverse-string/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_string.py)
