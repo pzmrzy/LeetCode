@@ -294,6 +294,7 @@
 413. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/arithmetic_slices.py)
 414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/third_maximim_number.py)
 415. [Add Strings](https://leetcode.com/problems/add-strings/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/add_strings.py)
+416. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 417. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/pacific_atlantic_water_flow.py)
 419. [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/battleships_in_a_board.py)
 421. [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
