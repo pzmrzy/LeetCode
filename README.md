@@ -202,6 +202,7 @@
 280. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/wiggle_sort.cpp)
 281. [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/zigzag_iterator.py)
 283. [Move Zeores](https://leetcode.com/problems/move-zeroes/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/move_zeroes.cpp)
+284. [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
 285. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/inorder_successor_in_BST.py)
 286. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/walls_and_gates.py)
 287. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_the_duplicate_number.py)
