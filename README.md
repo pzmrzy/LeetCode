@@ -234,6 +234,7 @@
 323. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_of_connected_components_in_an_undirected_graph.py)
 326. [Power of Three](https://leetcode.com/problems/power-of-three/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/power_of_three.cpp)
 328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/odd_even_linked_list.py)
+329. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 330. [Patching Array](https://leetcode.com/problems/patching-array/)
 334. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/increase_triplet_subsequence.py)
 337. [House Robber III](https://leetcode.com/problems/house-robber-iii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/house_robbrt_iii.py)
