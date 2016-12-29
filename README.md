@@ -277,6 +277,7 @@
 389. [Find the Difference](https://leetcode.com/problems/find-the-difference/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_the_difference.py)
 388. [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
 390. [Elimination Game](https://leetcode.com/problems/elimination-game/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/elimination_game.py)
+391. [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
 392. [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/is_subsequence.py)
 393. [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/UTF-8_validation.py)
 394. [Decode String](https://leetcode.com/problems/decode-string/)
