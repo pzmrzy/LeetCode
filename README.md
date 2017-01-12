@@ -335,3 +335,4 @@
 474. [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 475. [Heaters](https://leetcode.com/problems/heaters/)
 477. [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+482. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
