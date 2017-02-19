@@ -337,5 +337,6 @@
 477. [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
 482. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
 500. [Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+504. [Base 7](https://leetcode.com/problems/base-7/?tab=Description)
 513. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)
 515. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
