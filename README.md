@@ -342,3 +342,4 @@
 504. [Base 7](https://leetcode.com/problems/base-7/)
 513. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)
 515. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
+520. [Detect Capital](https://leetcode.com/problems/detect-capital/)
