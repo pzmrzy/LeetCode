@@ -69,6 +69,7 @@
 77. [Combinations](https://leetcode.com/problems/combinations/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/combinations.py)
 78. [Subsets](https://leetcode.com/problems/subsets/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/subsets.py)
 79. [Word Search](https://leetcode.com/problems/word-search/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_search.py)
+80. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 81. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_duplicates_from_sorted_list.py)
 83. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
@@ -344,3 +345,4 @@
 515. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
 520. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 525. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+530. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
