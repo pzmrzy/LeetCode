@@ -346,3 +346,6 @@
 520. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 525. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 530. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+531. [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/)
+532. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+533. [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/)
