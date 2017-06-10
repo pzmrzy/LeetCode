@@ -340,6 +340,7 @@
 482. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
 485. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 486. [Predict the Winner](https://leetcode.com/problems/predict-the-winner)
+492. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)
 500. [Keyboard Row](https://leetcode.com/problems/keyboard-row/)
 504. [Base 7](https://leetcode.com/problems/base-7/)
 513. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)
