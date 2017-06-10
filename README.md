@@ -345,6 +345,7 @@
 513. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)
 515. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
 520. [Detect Capital](https://leetcode.com/problems/detect-capital/)
+521. [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i)
 525. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 530. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 531. [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/)
@@ -364,3 +365,4 @@
 575. [Distribute Candies](https://leetcode.com/problems/distribute-candies)
 592. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
 599. [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
+606. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)
