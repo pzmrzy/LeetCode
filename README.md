@@ -369,4 +369,5 @@
 592. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
 594. [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 599. [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
+605. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers)
 606. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)
