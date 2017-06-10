@@ -361,5 +361,6 @@
 563. [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)
 565. [Array Nesting](https://leetcode.com/problems/array-nesting/)
 566. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+575. [Distribute Candies](https://leetcode.com/problems/distribute-candies)
 592. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
 599. [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)
