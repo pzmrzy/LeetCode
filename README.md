@@ -354,6 +354,7 @@
 531. [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/)
 532. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 533. [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/)
+535. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)
 536. [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)
 539. [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 541. [Reverse String II](https://leetcode.com/problems/reverse-string-ii)
