@@ -341,6 +341,7 @@
 485. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 486. [Predict the Winner](https://leetcode.com/problems/predict-the-winner)
 492. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)
+496. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 500. [Keyboard Row](https://leetcode.com/problems/keyboard-row/)
 504. [Base 7](https://leetcode.com/problems/base-7/)
 506. [Relative Ranks](https://leetcode.com/problems/relative-ranks)
