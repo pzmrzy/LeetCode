@@ -358,6 +358,7 @@
 535. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)
 536. [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)
 539. [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+540. [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array)
 541. [Reverse String II](https://leetcode.com/problems/reverse-string-ii)
 543. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 544. [Output Contest Matches](https://leetcode.com/problems/output-contest-matches)
