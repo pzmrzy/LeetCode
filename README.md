@@ -345,6 +345,7 @@
 492. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)
 495. [Teemo Attacking](https://leetcode.com/problems/teemo-attacking)
 496. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+498. [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
 500. [Keyboard Row](https://leetcode.com/problems/keyboard-row/)
 504. [Base 7](https://leetcode.com/problems/base-7/)
 506. [Relative Ranks](https://leetcode.com/problems/relative-ranks)
