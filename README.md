@@ -368,6 +368,7 @@
 547. [Friend Circles](https://leetcode.com/problems/friend-circles)
 551. [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)
 553. [Optimal Division](https://leetcode.com/problems/optimal-division/)
+554. [Brick Wall](https://leetcode.com/problems/brick-wall/)
 557. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 560. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)
 561. [Array Partition I](https://leetcode.com/problems/array-partition-i/)
