@@ -389,3 +389,4 @@
 606. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)
 609. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 617. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
+635. [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system)
