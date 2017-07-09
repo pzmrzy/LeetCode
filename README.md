@@ -394,5 +394,6 @@
 609. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 617. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
 628. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)
+633. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
 635. [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system)
 637. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
