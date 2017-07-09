@@ -359,6 +359,7 @@
 524. [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
 525. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 526. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
+529. [Minesweeper](https://leetcode.com/problems/minesweeper)
 530. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 531. [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/)
 532. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
