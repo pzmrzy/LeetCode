@@ -356,6 +356,7 @@
 516. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)
 520. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 521. [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i)
+524. [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
 525. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 526. [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
 530. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
