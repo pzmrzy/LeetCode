@@ -120,6 +120,7 @@
 157. [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/read_n_characters_given_read4.py)
 158. [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/read_n_characters_given_read4_II.cpp)
 159. [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_substring_with_at_most_two_distinct_characters.py)
+160. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 161. [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/one_edit_distance.py)
 162. [Find Peak Element](https://leetcode.com/problems/find-peak-element/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_peak_element.py)
 163. [Missing Ranges](https://leetcode.com/problems/missing-ranges/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/missing_ranges.py)
