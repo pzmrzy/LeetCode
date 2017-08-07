@@ -401,6 +401,7 @@
 637. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 648. [Replace Words](https://leetcode.com/problems/replace-words/)
+650. [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
 652. [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
 653. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 654. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
