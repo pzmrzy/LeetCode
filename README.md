@@ -401,3 +401,4 @@
 637. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 648. [Replace Words](https://leetcode.com/problems/replace-words/)
+654. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
