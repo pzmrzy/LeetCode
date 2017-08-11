@@ -404,6 +404,7 @@
 635. [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system)
 636. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 637. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+643. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 645. [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 646. [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
