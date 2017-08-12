@@ -389,6 +389,7 @@
 575. [Distribute Candies](https://leetcode.com/problems/distribute-candies)
 581. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 582. [Kill Process](https://leetcode.com/problems/kill-process/)
+583. [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
 592. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
 594. [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)
