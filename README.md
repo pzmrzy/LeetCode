@@ -346,6 +346,7 @@
 482. [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
 485. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)
 486. [Predict the Winner](https://leetcode.com/problems/predict-the-winner)
+491. [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)
 492. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)
 495. [Teemo Attacking](https://leetcode.com/problems/teemo-attacking)
 496. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
