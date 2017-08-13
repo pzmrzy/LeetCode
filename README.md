@@ -48,6 +48,7 @@
 53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_subarray.py)
 54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/spiral_matrix.py)
 55. [Jump Game](https://leetcode.com/problems/jump-game/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/jump_game.py)
+56. [Merge Intervals](https://leetcode.com/problems/merge-intervals)
 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/length_of_last_word.py)
 59. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/spiral_matrix_II.py)
 60. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutation_sequence.py)
