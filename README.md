@@ -75,6 +75,7 @@
 83. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_duplicates_from_sorted_list.py)
 83. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 86. [Partition List](https://leetcode.com/problems/partition-list/)
+87. [Scramble String](https://leetcode.com/problems/scramble-string/)
 88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/merge_sorted_array.py)
 89. [Gray Code](https://leetcode.com/problems/gray-code/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/gray_code.py)
 90. [Subsets II](https://leetcode.com/problems/subsets-ii/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/subsets_II.py)
