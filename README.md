@@ -40,6 +40,7 @@
 43. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
 46. [Permutations](https://leetcode.com/problems/permutations/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutations.py)
+47. [Permutations II](https://leetcode.com/problems/permutations-ii/)
 48. [Rotate Image](https://leetcode.com/problems/rotate-image/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/rotate_image.py)
 49. [Group Anagrams](https://leetcode.com/problems/anagrams/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/group_anagrams.py)
 50. [Pow(x, n)](https://leetcode.com/problems/powx-n/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/pow_x_n.py)
