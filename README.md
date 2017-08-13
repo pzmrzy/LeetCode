@@ -424,3 +424,6 @@
 653. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 654. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
 655. [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)
+657. [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)
+658. [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+660. [Remove 9](https://leetcode.com/problems/remove-9/)
