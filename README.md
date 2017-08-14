@@ -3,6 +3,7 @@
 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/add_two_number.py)
 3. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_substring_without_repearing_characters.py)
 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/median_of_two_sorted_arrays.py)
+5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 6. [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/zigzag_conversion.py)
 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_integer.py)
 8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/string_to_integer.py)
