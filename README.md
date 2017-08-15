@@ -1325,3 +1325,276 @@ dfs是不是从自己开始
 ### 444.[Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sequence_reconstruction.py) 
 
 建图，拓扑排序
+
+### 445.[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/add_two_numbers_II.py) 
+
+先存到数组里加
+
+### 447.[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_of_boomeranges.py)
+
+枚举中间的点，算距其他所有点的距离存到字典里，距离相同的点组成结果
+
+### 448. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_all_numbers_disappeared_in_an_array.py) 
+
+用数组的index做hash，出现过则变成负数
+
+### 449.[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/serialize_and_deserialize_BST.py) 
+
+序列化用前序遍历空格分开，恢复时用deque，递归建树
+
+### 451.[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sort_characters_by_frequency.py)
+
+存到字典里按顺序输出
+
+### 452.[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_number_of_arrows_to_burst_balloons.py)
+
+按横坐标排序，初始左右为正负无穷，对于不在范围里的气球，更新左右结果+1
+
+### 453.[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_moves_to_equal_array_elements.py)
+
+数学，sum(num)-l*min(num)
+
+### 454.[4Sum II](https://leetcode.com/problems/4sum-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/4Sim_II.py)
+
+把两个数组合并成一个，转换成2sum
+
+### 455.[Assign Cookies](https://leetcode.com/problems/assign-cookies) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/assign_cookie.py)
+
+从小到大排序，从小的开始，如果能满足就给，不能就跳
+
+### 456.[132 Pattern](https://leetcode.com/problems/132-pattern) [|python|]()
+
+
+
+### 459.[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) [|python|]()
+
+
+
+### 461. [Hamming Distance](https://leetcode.com/problems/hamming-distance) [|python|]()  
+
+
+
+### 462.[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) [|python|]() 
+
+
+
+### 463.[Island Perimeter](https://leetcode.com/problems/island-perimeter) [|python|]()
+
+
+
+### 474.[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) [|python|]()
+
+
+
+### 475.[Heaters](https://leetcode.com/problems/heaters) [|python|]()
+
+
+
+### 476.[Number Complement](https://leetcode.com/problems/number-complement) [|python|]()
+
+
+
+### 477.[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) [|python|]()
+
+
+
+### 479.[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product) [|python|]()
+
+
+
+### 481.[Magical String](https://leetcode.com/problems/magical-string) [|python|]()
+
+
+
+### 482.[License Key Formatting](https://leetcode.com/problems/license-key-formatting) [|python|]()
+
+
+
+### 485.[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) [|python|]()
+
+
+
+### 486. [Predict the Winner](https://leetcode.com/problems/predict-the-winner) [|python|]()
+
+
+
+### 491.[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences) [|python|]()
+
+
+
+### 492.[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) [|python|]()
+
+
+
+### 495.[Teemo Attacking](https://leetcode.com/problems/teemo-attacking) [|python|]()
+
+
+
+### 496.[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)[|python|]() 
+
+
+
+### 498.[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)[|python|]() 
+
+
+
+### 500.[Keyboard Row](https://leetcode.com/problems/keyboard-row)[|python|]() 
+
+
+
+### 501.[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) [|python|]()
+
+
+
+###503.[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) [|python|]()
+
+###504.[Base 7](https://leetcode.com/problems/base-7) [|python|]()
+
+###506.[Relative Ranks](https://leetcode.com/problems/relative-ranks) [|python|]()
+
+###507.[Perfect Number](https://leetcode.com/problems/perfect-number) [|python|]()
+
+###508.[Most Frequent Subtree Su](https://leetcode.com/problems/most-frequent-subtree-sum) [|python|]()
+
+###513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) [|python|]()
+
+###515.[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) [|python|]()
+
+###516.[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) [|python|]()
+
+###520.[Detect Capital](https://leetcode.com/problems/detect-capital) [|python|]()
+
+###521.[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) [|python|]()
+
+###524.[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) [|python|]()
+
+###525.[Contiguous Array](https://leetcode.com/problems/contiguous-array) [|python|]()
+
+###526.[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement) [|python|]()
+
+###529.[Minesweeper](https://leetcode.com/problems/minesweeper) [|python|]()
+
+###530.[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) [|python|]()
+
+###531.[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i) [|python|]()
+
+###532.[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) [|python|]()
+
+###533.[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii) [|python|]()
+
+###535.[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) [|python|]()
+
+###536.[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) [|python|]()
+
+###537.[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) [|python|]()
+
+###538.[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) [|python|]()
+
+###539.[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) [|python|]()
+
+###540.[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) [|python|]()
+
+###541.[Reverse String II](https://leetcode.com/problems/reverse-string-ii) [|python|]()
+
+###543.[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) [|python|]()
+
+###547.[Friend Circles](https://leetcode.com/problems/friend-circles) [|python|]()
+
+###551.[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) [|python|]()
+
+###553.[Optimal Division](https://leetcode.com/problems/optimal-division) [|python|]()
+
+###554.[Brick Wall](https://leetcode.com/problems/brick-wall) [|python|]()
+
+###557.[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) [|python|]()
+
+###560.[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) [|python|]()
+
+###561.[Array Partition I](https://leetcode.com/problems/array-partition-i) [|python|]()
+
+###563.[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) [|python|]()
+
+###565.[Array Nesting](https://leetcode.com/problems/array-nesting) [|python|]()
+
+###566.[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) [|python|]()
+
+###572.[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) [|python|]()
+
+###575.[Distribute Candies](https://leetcode.com/problems/distribute-candies) [|python|]()
+
+###581.[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) [|python|]()
+
+###582.[Kill Process](https://leetcode.com/problems/kill-process) [|python|]()
+
+###583.[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) [|python|]()
+
+###592.[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) [|python|]()
+
+###593.[Valid Square](https://leetcode.com/problems/valid-square) [|python|]()
+
+###594.[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) [|python|]()
+
+###598.[Range Addition II](https://leetcode.com/problems/range-addition-ii) [|python|]()
+
+###599.[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [|python|]()
+
+###605.[Can Place Flowers](https://leetcode.com/problems/can-place-flowers) [|python|]()
+
+###606. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) [|python|]()
+
+###609.[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) [|python|]()
+
+###611.[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) [|python|]()
+
+###617.[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) [|python|]()
+
+###621.[Task Scheduler](https://leetcode.com/problems/task-scheduler) [|python|]()
+
+###623.[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) [|python|]()
+
+###628.[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) [|python|]()
+
+###630.[Course Schedule III](https://leetcode.com/problems/course-schedule-iii) [|python|]()
+
+###633.[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) [|python|]()
+
+###635.[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) [|python|]()
+
+###636.[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) [|python|]()
+
+###637.[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) [|python|]()
+
+###640.[Solve the Equation](https://leetcode.com/problems/solve-the-equation) [|python|]()
+
+###643.[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) [|python|]()
+
+###645.[Set Mismatch](https://leetcode.com/problems/set-mismatch) [|python|]()
+
+###646.[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) [|python|]()
+
+###647.[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) [|python|]()
+
+###648.[Replace Words](https://leetcode.com/problems/replace-words) [|python|]()
+
+###650.[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) [|python|]()
+
+###652.[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) [|python|]()
+
+###653.[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) [|python|]()
+
+###654.[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) [|python|]()
+
+###655.[Print Binary Tree](https://leetcode.com/problems/print-binary-tree) [|python|]()
+
+###657.[Judge Route Circle](https://leetcode.com/problems/judge-route-circle) [|python|]()
+
+###658.[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) [|python|]()
+
+###659.[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) [|python|]()
+
+###660.[Remove 9](https://leetcode.com/problems/remove-9) [|python|]()
+
+
+
+
+
