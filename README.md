@@ -14,7 +14,7 @@
 
 把问题转换成找两个数组的第几个数，找的时候二分删一个数组的一半
 
-### 5.[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) (https://leetcode.com/problems/longest-palindromic-substring/)[|python|] 
+### 5.[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_palindromic_substring.py) 
 
 选一个位置为中点向两边拓展，可以跳掉连续重复的字符
 
@@ -110,11 +110,11 @@
 
 找到第一个第一个比右边小的，先交换然后后面排序，注意最大的直接排序
 
-### 32.[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)  
+### 32.[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_valid_parentheses.py)
 
 用栈存左括号位置，遇到右括号pop，存额外右括号的位置，最后遍历一遍栈，找相邻元素距离最大的位结果
 
-### 33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) 
+### 33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/search_in_rotated_sorted_array.py)
 
 二分，找有序的一边
 
@@ -130,7 +130,7 @@
 
 直接按要求检查
 
-### 37.[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)  
+### 37.[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sudoku_solver.py)
 
 先存所有空格位置，暴力递归
 
@@ -154,11 +154,11 @@ BFS且记录位置
 
 正反扫两边，记录最左最右的最大值，每个位置是左边最高右边最高中小的减去高度
 
-### 43.[Multiply Strings](https://leetcode.com/problems/multiply-strings)  
+### 43.[Multiply Strings](https://leetcode.com/problems/multiply-strings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/multipy_strings.py)
 
 对每两位的乘积存到对应位置上，再做一遍进位
 
-### 44.[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) 
+### 44.[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/wildcard_matching.py)
 
 dp，根据每一位进行状态转移
 
@@ -166,7 +166,7 @@ dp，根据每一位进行状态转移
 
 BFS DFS
 
-### 47.[Permutations II](https://leetcode.com/problems/permutations-ii)  
+### 47.[Permutations II](https://leetcode.com/problems/permutations-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutation_II.py)
 
 初始为空，每次插入一个数，如果要查的数和这个位置的数相同则break来去重
 
@@ -202,7 +202,7 @@ DFS，同上
 
 如果能跳到n一定能到n-1倒着跳
 
-### 56.[Merge Intervals](https://leetcode.com/problems/merge-intervals)  
+### 56.[Merge Intervals](https://leetcode.com/problems/merge-intervals) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/merge_intervals.py)
 
 按开始从小到大排序，如果有重合则更新当前区间结束点，否则在结果中增加当前区间
 
@@ -218,7 +218,7 @@ split之后返回最后一个长度
 
 先求出来阶乘，然后挨个除，把对应的加进去
 
-### 61.[Rotate List](https://leetcode.com/problems/rotate-list)  
+### 61.[Rotate List](https://leetcode.com/problems/rotate-list) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/rotate_list.py)
 
 找到尾以及链表长度，找到要转的位置，尾指向头成环，新的头为尾的下一个，尾下一个为空，切断环
 
@@ -294,15 +294,15 @@ bfs
 
 dfs回朔
 
-### 80.[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)  
+### 80.[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_duplicates_from_sorted_array_II.py)
 
 和I类似，如果比当前前两个数大，就拷贝过来
 
-### 81.[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) 
+### 81.[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/search_in_rotated_sorted_array_II.py)
 
 。。。on比log的快
 
-### 82.[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) 
+### 82.[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_duplicates_from_sorted_list_II.py)
 
 dummy头指针，当前指针走到重复的最后一个，如果前一个指针的下个为当前指针则证明没重复，否则更新前一个指针跳掉当前指针
 
@@ -310,15 +310,15 @@ dummy头指针，当前指针走到重复的最后一个，如果前一个指针
 
 等于next就删
 
-### 84.[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)  
+### 84.[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/largest_rectangle_in_histogram.py)
 
 用栈存当前高度，如果比下一个高就pop，并算新的面积
 
-### 86.[Partition List](https://leetcode.com/problems/partition-list) 
+### 86.[Partition List](https://leetcode.com/problems/partition-list) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/partition_list.py)
 
 遍历一遍分成两个链表，最后再合并起来
 
-### 87.[Scramble String](https://leetcode.com/problems/scramble-string) 
+### 87.[Scramble String](https://leetcode.com/problems/scramble-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/scramble_string.py)
 
 拿每个位置当根节点，递归
 
@@ -346,11 +346,11 @@ dp注意整10 的情况，以及多个0
 
 dfs左根右
 
-### 95.[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)  
+### 95.[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/unique_binary_search_trees_ii.py)
 
 枚举位置为根节点，递归求所有左右子树，再组合起来
 
-### 96.[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) [|python|](unique_binary_search_trees.py) 
+### 96.[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/unique_binary_search_trees.py) 
 
 dp，每多一个数，结果为前面所有分着乘
 
@@ -370,7 +370,7 @@ dp，每多一个数，结果为前面所有分着乘
 
 根为0，用字典存每层有哪个节点
 
-### 103.[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)  
+### 103.[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_zigzag_level_order_traversal.py)
 
 中序遍历树，字典存节点的层，根据奇偶正反序输出
 
@@ -386,7 +386,7 @@ dfs左右子树
 
 同上
 
-### 107.[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/ 
+### 107.[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_level_order_traversal_II.py)
 
 和1一样，就输出的时候反着
 
@@ -394,7 +394,7 @@ dfs左右子树
 
 中间的当根，两边递归
 
-### 109.[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)  
+### 109.[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/convert_sorted_list_to_binary_tree.py)
 
 快慢指针找中点，中点为根，递归左右子树
 
@@ -458,7 +458,7 @@ dp，找到两次买卖的时间
 
 dfs，传当前的值
 
-### 134.[Gas Station](https://leetcode.com/problems/gas-station)  
+### 134.[Gas Station](https://leetcode.com/problems/gas-station) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/gas_station.py)
 
 如果总和大于cost一定有结果，从头模拟如果不行就从不行的节点当头
 
@@ -474,7 +474,7 @@ xor一遍
 
 db拆不拆
 
-### 141.[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)  
+### 141.[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/linked_list_cycle.py)
 
 一个slow一个fast，有环一定能重合
 
@@ -498,7 +498,7 @@ db拆不拆
 
 二分找最小的
 
-### 154.[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  
+### 154.[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_minimum_in_rotated_sorted_array_II.py)
 
 直接min最快。。。
 
@@ -522,7 +522,7 @@ db拆不拆
 
 两个指针记录两个字符最前面的位置
 
-### 160.[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)  
+### 160.[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/intersection_of_two_linked_list.py)
 
 从两个指针的头开始，如果走到尾则换到另一个链表，直到两个指针相同，为交点
 
@@ -614,7 +614,7 @@ dummy，等于就跳
 
 筛法，或者后面好多hint
 
-### 205.[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/isomorphic_strings) 
+### 205.[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/isomorphic_strings.py) 
 
 用dict，换线换一次看看是不是都行
 
@@ -706,7 +706,7 @@ count。。
 
 先看会不会是根，不是往子树里找
 
-### 236.[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)  
+### 236.[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/lowest_common_ancestor_of_a_binary_tree.py)
 
 如果根是其中一个子树或者空则返回，否则递归两个子树找lca，如果两边都不是空则为当前点，否则为非空子树的结果
 
@@ -726,7 +726,7 @@ count。。
 
 右上角开始，向左下找
 
-### 241.[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)  
+### 241.[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/different_ways_to_add_parenthses.py)
 
 遍历字符串如果是运算符则拆成两边递归，将两边的结果组合，如果不包含运算符则返回数字
 
@@ -862,7 +862,7 @@ on找中位数算法，k largerst ，cpp好省事
 
 找到0删了，最后再加，或者直接换到后面
 
-### 284.[Peeking Iterator](https://leetcode.com/problems/peeking-iterator)  
+### 284.[Peeking Iterator](https://leetcode.com/problems/peeking-iterator) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/peeking_iterator.py)
 
 记录peek num
 
@@ -910,7 +910,7 @@ mod4
 
 每一个维度的中间点，还用找中位数算法
 
-###297.[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)  
+###297.[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/serialize_and_deserialize_binary_tree.py)
 
 前序遍历，#为None，空格分开
 
@@ -946,7 +946,7 @@ mod4
 
 二维树状数组或者用部分和也能过
 
-### 309.[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)  
+### 309.[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/best_time_to_buy_and_sell_stock_with_cooldown.py)
 
 dp，存前两天买或者卖的状态
 
@@ -974,7 +974,7 @@ sqrt
 
 dfs，记录位置
 
-### 321.[Create Maximum Number](https://leetcode.com/problems/create-maximum-number)  
+### 321.[Create Maximum Number](https://leetcode.com/problems/create-maximum-number) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/create_maximum_numbers.py)
 
 枚举每个里面取的个数，得到能取到的最大的，再merge
 
@@ -990,11 +990,11 @@ bfs
 
 奇偶两个dummy，扫完了连起来
 
-### 329.[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)  
+### 329.[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_increasing_path_in_a_matrix.py)
 
 first second两个，小更新，找到第三个
 
-### 330.[Patching Array](https://leetcode.com/problems/patching-array) 
+### 330.[Patching Array](https://leetcode.com/problems/patching-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/patching_array.py)
 
 找出现miss的数，如果有比他小的，就加这个数，否则*2
 
@@ -1014,7 +1014,7 @@ first second两个，小更新，找到第三个
 
 求深度的的和函数互相调
 
-### 341.[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)  
+### 341.[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/flatten_nested_list_iterator.py)
 
 用栈存list和深度
 
@@ -1058,7 +1058,7 @@ log
 
 写好每个数能去哪个数 然后dfs
 
-###354.[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  
+###354.[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/russian_doll_envelopes.py)
 
 按x[0],-x[x]排序，二分
 
@@ -1114,7 +1114,7 @@ dp，只用判断最大的能不能整除
 
 左端点加，右断点减，最后统计
 
-### 371.[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)  
+### 371.[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_two_integers.py)
 
 位运算，mask，b的每一位给a
 
@@ -1122,7 +1122,7 @@ dp，只用判断最大的能不能整除
 
 先把0到9次方求了，然后每位算
 
-### 373.[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums)  
+### 373.[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_k_pairs_with_smallest_sum.py)
 
 优先队列存组合，找的时候j+1，到头再i+1
 
@@ -1158,7 +1158,7 @@ xx sampling随机算法
 
 随机交换两个数
 
-### 386.[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)  
+### 386.[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/lexicographical_numbers.py)
 
 存当前的数，根据情况对当前的数*10，+1，/10+1
 
@@ -1166,11 +1166,11 @@ xx sampling随机算法
 
 用字典扫一遍
 
-### 388.[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path)  
+### 388.[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_absolute_file_path.py)
 
 用字典存层数，如果是包含点则是文件，更新当前长度，否决存下一层
 
-### 389.[Find the Difference](https://leetcode.com/problems/find-the-difference) 
+### 389.[Find the Difference](https://leetcode.com/problems/find-the-difference) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_the_difference.py)
 
 两个字典比一下
 
@@ -1178,7 +1178,7 @@ xx sampling随机算法
 
 每次找头在哪里
 
-### 391.[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle)  
+### 391.[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/perfect_rectangle.py)
 
 存四个最外围的点，然后比总面积是不是为四个点包围的面积
 
@@ -1190,7 +1190,7 @@ xx sampling随机算法
 
 分类判断
 
-### 394.[Decode String](https://leetcode.com/problems/decode-string)  
+### 394.[Decode String](https://leetcode.com/problems/decode-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/decode_string.py)
 
 用栈存，设多个状态
 
@@ -1210,7 +1210,7 @@ xx采样
 
 能除的建图 bfs
 
-### 400.[Nth Digit](https://leetcode.com/problems/nth-digit)  
+### 400.[Nth Digit](https://leetcode.com/problems/nth-digit) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/nth_digit.py)
 
 找到对应的数，在找到位置，对应的数每次减去 l（每次加一）*count（每次乘10）
 
@@ -1262,7 +1262,7 @@ dfs
 
 按位加
 
-### 416.[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)  
+### 416.[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/partition_equal_subset_sum.py)
 
 dp，能不能凑成一半，对每个数要或者不要
 
@@ -1274,7 +1274,7 @@ dp，能不能凑成一半，对每个数要或者不要
 
 一个x上面或者左边是点
 
-### 421.[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array)  
+### 421.[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_xor_of_two_numbers_in_an_array.py)
 
 从最高位32位开始，每次结果左移一位，看对应位是1的，如果这些数有一个和1和当前结果xor是1，结果加1
 
@@ -1286,7 +1286,7 @@ dp，能不能凑成一半，对每个数要或者不要
 
 找到每个数唯一的字母
 
-### 424.[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)  
+### 424.[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_repeating_character_replacement.py)
 
 用字典存每个字母出现的次数，对每个字符找到最左边的
 
@@ -1294,11 +1294,11 @@ dp，能不能凑成一半，对每个数要或者不要
 
 trie,dfs
 
-### 434.[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)  
+### 434.[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_of_segments_in_a_string.py)
 
 如果是空格状态为0字母为1，0的时候状态为1，结果+1
 
-### 435.[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) 
+### 435.[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/non_overlapping_intervals.py)
 
 按开始排序，扫一遍和前面比
 
@@ -1314,11 +1314,11 @@ dfs是不是从自己开始
 
 从后面开始，用栈
 
-### 441.[Arranging Coins](https://leetcode.com/problems/arranging-coins)  
+### 441.[Arranging Coins](https://leetcode.com/problems/arranging-coins)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/arranging_coins.py)
 
 等差数列 [(sqrt(8n+1)-1)/2]
 
-### 442.[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) 
+### 442.[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_all_duplicates_in_an_array.py)
 
 用数组自己作为hash存哪个数之前出现过，第一次出现的数将对应位置变成负的
 
@@ -1362,239 +1362,385 @@ dfs是不是从自己开始
 
 从小到大排序，从小的开始，如果能满足就给，不能就跳
 
-### 456.[132 Pattern](https://leetcode.com/problems/132-pattern) [|python|]()
+### 456.[132 Pattern](https://leetcode.com/problems/132-pattern) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/132_pattern.cpp)
 
+三个指针扫
 
+### 459.[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/repeated_substring_pattern.py)
 
-### 459.[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) [|python|]()
+枚举pattern的长度，如果能整除就判断是不是
 
+### 461. [Hamming Distance](https://leetcode.com/problems/hamming-distance) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/hamming_distance.py)  
 
+异或数1
 
-### 461. [Hamming Distance](https://leetcode.com/problems/hamming-distance) [|python|]()  
+### 462.[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/miminum_moves_to_equal_array_element_II.cpp) 
 
+找到中位数，和所有别的数求差
 
+### 463.[Island Perimeter](https://leetcode.com/problems/island-perimeter) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/island_perimeter.py)
 
-### 462.[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) [|python|]() 
+遍历地图，每个方块+4，有相邻的-1
 
+### 474.[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/ones_and_zeroes.py)
 
+dp,遍历每个数，数0和1，data(i,j)=max(data(i,j),data(i-#0,j-#1)+1)
 
-### 463.[Island Perimeter](https://leetcode.com/problems/island-perimeter) [|python|]()
+### 475.[Heaters](https://leetcode.com/problems/heaters) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/heaters.py)
 
+对heater排序，再对house排序，遍历所有house看能否被覆盖到
 
+### 476.[Number Complement](https://leetcode.com/problems/number-complement) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_complement.py)
 
-### 474.[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) [|python|]()
+找到第一个2的n次方大于n，用这个数-1与n异或
 
+### 477.[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/total_hamming_distance.py)
 
+遍历32个位，每个数与对应位&，为该位为1的个数，也能得到0的数个数，相乘加到结果
 
-### 475.[Heaters](https://leetcode.com/problems/heaters) [|python|]()
+### 479.[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/largets_palindrome_product.py) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/largest_palindrome_product.cpp)
 
+确定上下界，遍历可能的结果判断
 
+### 481.[Magical String](https://leetcode.com/problems/magical-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/magic_string.py)
 
-### 476.[Number Complement](https://leetcode.com/problems/number-complement) [|python|]()
+从短的序列开始拓展到n
 
+### 482.[License Key Formatting](https://leetcode.com/problems/license-key-formatting) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/license_key_formatting.py)
 
+先去掉-，然后按位加-
 
-### 477.[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance) [|python|]()
+### 485.[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/max_consecutive_ones.py)
 
+遍历一遍计数，遇到0清零
 
+### 486. [Predict the Winner](https://leetcode.com/problems/predict-the-winner) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/predict_the_winner.py)
 
-### 479.[Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product) [|python|]()
+dp存差dp(j,j+1)=max(num(j+1)-dp(j,j+i-1),num(j)-dp(j+1,j+i))
 
+### 491.[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/increasing_subsequences.py)
 
+用itertool生成所有组合并判断
 
-### 481.[Magical String](https://leetcode.com/problems/magical-string) [|python|]()
+### 492.[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/construct_the_rectangle.py)
 
+对面积开方，从中间向两边扫
 
+### 495.[Teemo Attacking](https://leetcode.com/problems/teemo-attacking) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/teemo_attacking.py)
 
-### 482.[License Key Formatting](https://leetcode.com/problems/license-key-formatting) [|python|]()
+结果加 min(相邻两次攻击时间差，持续时间的)
 
+### 496.[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/next_greater_element_I.py) 
 
+用字典存对应结果，求的时候递归向后找
 
-### 485.[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) [|python|]()
+### 498.[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/diagonal_traversal.py) 
 
+按 i+j,(j,i)[i^j&1]（奇偶）,val排序
 
+### 500.[Keyboard Row](https://leetcode.com/problems/keyboard-row)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/keyboard_row.py) 
 
-### 486. [Predict the Winner](https://leetcode.com/problems/predict-the-winner) [|python|]()
+先把键盘的行数存到字典里，挨个单词判断
 
+### 501.[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_mode_in_binary_search_tree.py)
 
+遍历树，把值存到字典里
 
-### 491.[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences) [|python|]()
+###503.[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/next_greater_element_II.py)
 
+用栈存，初始为倒序，从后开始遍历，如果栈顶小于当前的数pop直到没，当前的结果位栈顶对应的数
 
+###504.[Base 7](https://leetcode.com/problems/base-7) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/base_7.py)
 
-### 492.[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) [|python|]()
+mod7 取余
 
+###506.[Relative Ranks](https://leetcode.com/problems/relative-ranks) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/relative_ranks.py)
 
-
-### 495.[Teemo Attacking](https://leetcode.com/problems/teemo-attacking) [|python|]()
-
-
-
-### 496.[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)[|python|]() 
-
-
-
-### 498.[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)[|python|]() 
-
-
-
-### 500.[Keyboard Row](https://leetcode.com/problems/keyboard-row)[|python|]() 
-
-
-
-### 501.[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) [|python|]()
-
-
-
-###503.[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) [|python|]()
-
-###504.[Base 7](https://leetcode.com/problems/base-7) [|python|]()
-
-###506.[Relative Ranks](https://leetcode.com/problems/relative-ranks) [|python|]()
+写好顺序GSB...，用把num排序再zip成字典，到num里取
 
 ###507.[Perfect Number](https://leetcode.com/problems/perfect-number) [|python|]()
 
-###508.[Most Frequent Subtree Su](https://leetcode.com/problems/most-frequent-subtree-sum) [|python|]()
 
-###513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) [|python|]()
 
-###515.[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) [|python|]()
+###508.[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/most_frequent_subtree_sum.py)
 
-###516.[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) [|python|]()
+后序遍历，值存到字典里，最后找字典里最多的
 
-###520.[Detect Capital](https://leetcode.com/problems/detect-capital) [|python|]()
+###513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_botton_left_tree_value.py)
 
-###521.[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) [|python|]()
+前序遍历，遍历时记录层数
 
-###524.[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) [|python|]()
+###515.[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_largest_value_in_each_tree_row.py)
 
-###525.[Contiguous Array](https://leetcode.com/problems/contiguous-array) [|python|]()
+遍历的时候把数存到对应列的字典里
 
-###526.[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement) [|python|]()
+###516.[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_palindromic_subsequence.py)
 
-###529.[Minesweeper](https://leetcode.com/problems/minesweeper) [|python|]()
+dp, 记录ij 头尾，dp(i,j) = dp(i+1,j-1) if s[i]==s[j] else max(dp(i+1,j), dp(i, j-1))
 
-###530.[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) [|python|]()
+###520.[Detect Capital](https://leetcode.com/problems/detect-capital) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/detect_capital.py)
+
+isupper, islower, istitle
+
+###521.[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_uncommon_subsequence_I.py)
+
+相等为-1，不等为长者
+
+###524.[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_word_in_dictionary_through_deleting.py)
+
+对单词按长度排序，对每个单词用一个指针扫描进行判断
+
+###525.[Contiguous Array](https://leetcode.com/problems/contiguous-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/contiguous_array.py)
+
+记录01差，字典存差出现的位置
+
+###526.[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/beautiful_arrangement.py)
+
+dfs，如果符合则对下一个和当前的数进行交换
+
+###529.[Minesweeper](https://leetcode.com/problems/minesweeper) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minesweeper.py)
+
+bfs，如果是数填数，否则加入队
+
+###530.[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_absolute_difference_in_BST.py)
+
+前序遍历的结果为从小到大的顺序，记录前一个值，求差
 
 ###531.[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i) [|python|]()
 
-###532.[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) [|python|]()
+
+
+###532.[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/k-diff_pairs_in_an_array.py)
+
+数存到字典里，遍历字典key看相差k的key是否存在
 
 ###533.[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii) [|python|]()
 
-###535.[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) [|python|]()
+
+
+###535.[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/encode_decode_tinyurl.py)
+
+url存到字典里，key为自增的数
 
 ###536.[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) [|python|]()
 
+
+
 ###537.[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) [|python|]()
 
-###538.[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) [|python|]()
 
-###539.[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) [|python|]()
 
-###540.[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) [|python|]()
+###538.[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/convert_BST_to_greater_tree.py)
 
-###541.[Reverse String II](https://leetcode.com/problems/reverse-string-ii) [|python|]()
+右根左遍历，记录和，加到root
 
-###543.[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) [|python|]()
+###539.[Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_time_difference.py)
 
-###547.[Friend Circles](https://leetcode.com/problems/friend-circles) [|python|]()
+先排序，再加一个最小时间加24h的时间，顺序减求最小
 
-###551.[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) [|python|]()
+###540.[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/single_element_in_a_sorted_array.py)
 
-###553.[Optimal Division](https://leetcode.com/problems/optimal-division) [|python|]()
+根据奇偶和前后是否相等进行二分
 
-###554.[Brick Wall](https://leetcode.com/problems/brick-wall) [|python|]()
+###541.[Reverse String II](https://leetcode.com/problems/reverse-string-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_string_II.py)
 
-###557.[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) [|python|]()
+flag记录是否反正
 
-###560.[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) [|python|]()
+###543.[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/diameter_of_binary_tree.py)
 
-###561.[Array Partition I](https://leetcode.com/problems/array-partition-i) [|python|]()
+dfs，深度为左右子树最大深度+1，更新结果
 
-###563.[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) [|python|]()
+###547.[Friend Circles](https://leetcode.com/problems/friend-circles) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/friend_circles.py)
 
-###565.[Array Nesting](https://leetcode.com/problems/array-nesting) [|python|]()
+并查集
 
-###566.[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) [|python|]()
+###551.[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/student_attendance_record_I.py)
 
-###572.[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) [|python|]()
+根据规则记录状态
 
-###575.[Distribute Candies](https://leetcode.com/problems/distribute-candies) [|python|]()
+###553.[Optimal Division](https://leetcode.com/problems/optimal-division) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/optimal_division.py)
 
-###581.[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) [|python|]()
+超过两个数结果为第一个数除以后面所有数的连除
+
+###554.[Brick Wall](https://leetcode.com/problems/brick-wall) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/brick_wall.py)
+
+用字典存对应位置的砖块个数，
+
+###557.[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_words_in_a_string_III.py)
+
+split空格reverse再join
+
+###560.[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/subarray_sum_equals_k.py)
+
+用字典记录部分和，结果加当前和与k的差的个数
+
+###561.[Array Partition I](https://leetcode.com/problems/array-partition-i) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/array_partition_I.py)
+
+先排序，隔位取，求和
+
+###563.[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_tilt.py)
+
+后序遍历，结果加左右差，返回左右加root
+
+###565.[Array Nesting](https://leetcode.com/problems/array-nesting) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/array_nesting.py)
+
+存一个visit数组初始false，每个数只能被visit一遍，遇到true的更新结果
+
+###566.[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reshape_the_matrix.py)
+
+如果可以转，把数组拆成一维迭代器再拼
+
+###572.[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/subtree_of_another_tree.py)
+
+递归和两个子树比，比的时候也递归比
+
+###575.[Distribute Candies](https://leetcode.com/problems/distribute-candies) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/distribut_candies.py)
+
+min(len(candies) / 2, len(set(candies)))
+
+###581.[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/shortest_unsorted_continuous_subarray.py)
+
+排序与没排序的比，找到第一个和最后一个不同的
 
 ###582.[Kill Process](https://leetcode.com/problems/kill-process) [|python|]()
 
-###583.[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) [|python|]()
 
-###592.[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) [|python|]()
 
-###593.[Valid Square](https://leetcode.com/problems/valid-square) [|python|]()
+###583.[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/delete_operation_for_two_strings.py)
 
-###594.[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) [|python|]()
+dp类似与edit distance
 
-###598.[Range Addition II](https://leetcode.com/problems/range-addition-ii) [|python|]()
+###592.[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/fraction_addition_and_substraction.py)
 
-###599.[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [|python|]()
+拆出来所有数，按顺序加起来，最后约分
 
-###605.[Can Place Flowers](https://leetcode.com/problems/can-place-flowers) [|python|]()
+###593.[Valid Square](https://leetcode.com/problems/valid-square) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/valid_square.py)
 
-###606. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) [|python|]()
+两两算距离，四个短的相等，2个长的相等
 
-###609.[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) [|python|]()
+###594.[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_harmonious_subsequence.py)
 
-###611.[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) [|python|]()
+所有数存到counter里，对于每个数看下个数在不在，如果在更新结果
 
-###617.[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) [|python|]()
+###598.[Range Addition II](https://leetcode.com/problems/range-addition-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/range_addition_II.py)
 
-###621.[Task Scheduler](https://leetcode.com/problems/task-scheduler) [|python|]()
+找到操作里最小的x和y，x*y为结果
 
-###623.[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) [|python|]()
+###599.[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_index_sum_of_two_lists.py)
 
-###628.[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) [|python|]()
+两个列表存到字典里，值为index，把公共的index和存到字典里，最小的key为结果
 
-###630.[Course Schedule III](https://leetcode.com/problems/course-schedule-iii) [|python|]()
+###605.[Can Place Flowers](https://leetcode.com/problems/can-place-flowers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/can_place_flower.py)
 
-###633.[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) [|python|]()
+贪心，能放就放
+
+###606. [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/construct_string_from_binary_tree.py)
+
+递归，对左子树，如果左右子树都不存在返回空，对右子树，如果有为空，返回空
+
+###609.[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_duplicate_file_in_system.py)
+
+先拆开存到字典里，key为内容，value为路径，返回所有长度大于一的value
+
+###611.[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/valid_triangle_number.py)
+
+先排序，遍历最大边，两个指针找能够构成三角的范围
+
+###617.[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/merge_two_binary_tree.py)
+
+递归merge
+
+###621.[Task Scheduler](https://leetcode.com/problems/task-scheduler) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/task_scheduler.py)
+
+存到counter里，用最长的当分隔，得到最长长度，和总长度比
+
+###623.[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/add_one_row_to_tree.py)
+
+递归加，d<=2时左子树1，右子树0
+
+###628.[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_product_of_three_numbers.py)
+
+排序，结果为前三个和后三个拼的最大值
+
+###630.[Course Schedule III](https://leetcode.com/problems/course-schedule-iii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/course_schedule_III.py)
+
+按结束时间排序，用优先队列从大到小，当前start>end pop并更新start，最后剩下的长度为结果
+
+###633.[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_square_numbers.py)
+
+遍历0到sqrt(n)
 
 ###635.[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) [|python|]()
 
-###636.[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) [|python|]()
 
-###637.[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) [|python|]()
 
-###640.[Solve the Equation](https://leetcode.com/problems/solve-the-equation) [|python|]()
+###636.[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/exclusive_time_of_functions.py)
 
-###643.[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) [|python|]()
+start压栈，end弹栈
 
-###645.[Set Mismatch](https://leetcode.com/problems/set-mismatch) [|python|]()
+###637.[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/average_of_levels_in_binary_tree.py)
 
-###646.[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) [|python|]()
+用字典存层，最后再算平均
 
-###647.[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) [|python|]()
+###640.[Solve the Equation](https://leetcode.com/problems/solve-the-equation) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/solve_the_equation.py)
+
+正则找到所有的系数和常数项，除得结果
+
+###643.[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_average_subarray_I.py)
+
+前后两个指针求连续的和，最后再求平均
+
+###645.[Set Mismatch](https://leetcode.com/problems/set-mismatch) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/set_mismatch.py)
+
+求和，再找到重复项
+
+###646.[Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_length_of_pair_chain.py)
+
+按y排序，扫一遍用y更新当前值，初始-inf
+
+###647.[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/palindromic_substrings.py)
+
+枚举中间点，向两边拓展
 
 ###648.[Replace Words](https://leetcode.com/problems/replace-words) [|python|]()
 
-###650.[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) [|python|]()
+字典存到集合里，对句子中的单词，从短到长匹配
 
-###652.[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) [|python|]()
+###650.[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/2_keys_keyboard.py)
 
-###653.[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) [|python|]()
+dp，初始dp[i]=i,之后如果能整除，更新
 
-###654.[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) [|python|]()
+###652.[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_duplicate_subtrees.py)
 
-###655.[Print Binary Tree](https://leetcode.com/problems/print-binary-tree) [|python|]()
+前序遍历，并序列化成字符串，存到字典里，找所有出现过重复的
 
-###657.[Judge Route Circle](https://leetcode.com/problems/judge-route-circle) [|python|]()
+###653.[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/two_sum_IV.py)
 
-###658.[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) [|python|]()
+bfs，遇到的数先检查对应的是否出现过，否则存到集合里
 
-###659.[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) [|python|]()
+###654.[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_binary_tree.py)
 
-###660.[Remove 9](https://leetcode.com/problems/remove-9) [|python|]()
+找到数组里的最大值做根，对两边递归
 
+###655.[Print Binary Tree](https://leetcode.com/problems/print-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/print_binary_tree.py)
 
+先求深度，根据深度初始化结果数组，递归填
+
+###657.[Judge Route Circle](https://leetcode.com/problems/judge-route-circle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/judge_route_circle.py)
+
+只有做完能回到初始位置才可以
+
+###658.[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_k_closet_elements.py)
+
+二分找到中点，两个指针左右拓展
+
+###659.[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/split_array_into_consecutive_subsequences.py)
+
+字典key为末尾的数，value优先队列所有以该数结尾的长度，如果前一个存在则append最短的
+
+###660.[Remove 9](https://leetcode.com/problems/remove-9) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_9.py)
+
+换成九进制
 
 
 
