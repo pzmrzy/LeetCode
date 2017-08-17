@@ -492,6 +492,8 @@ sqrt
 dfs，记录位置
 ### 321. [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/create_maximum_numbers.py)
 枚举每个里面取的个数，得到能取到的最大的，再merge
+### 322. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) [|python|]()
+因为按字典序，图存到优先队列里，然后dfs
 ### 323. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_of_connected_components_in_an_undirected_graph.py) 
 bfs
 ### 326. [Power of Three](https://leetcode.com/problems/power-of-three) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/power_of_three.cpp) 
