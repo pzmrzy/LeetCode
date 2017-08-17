@@ -238,6 +238,7 @@ dfs，传当前的值
 xor一遍
 ### 139. [Word Break](https://leetcode.com/problems/word-break) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_break.py) 
 db拆不拆
+### 140. [Word Break II](https://leetcode.com/problems/word-break-ii/)
 ### 141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/linked_list_cycle.py)
 一个slow一个fast，有环一定能重合
 ### 144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_preorder_traversal.py) 
