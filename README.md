@@ -228,7 +228,7 @@ dp，找到两次买卖的时间
 并查集
 ### 129. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_root_to_leaf_numbers.py) 
 dfs，传当前的值
-### 133. [Clone Graph](https://leetcode.com/problems/clone-graph/) [|python|]()
+### 133. [Clone Graph](https://leetcode.com/problems/clone-graph/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/clone_graph.py)
 存一个visit，dfs
 ### 134. [Gas Station](https://leetcode.com/problems/gas-station) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/gas_station.py)
 如果总和大于cost一定有结果，从头模拟如果不行就从不行的节点当头
@@ -238,7 +238,9 @@ dfs，传当前的值
 xor一遍
 ### 139. [Word Break](https://leetcode.com/problems/word-break) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_break.py) 
 db拆不拆
-### 140. [Word Break II](https://leetcode.com/problems/word-break-ii/)
+### 140. [Word Break II](https://leetcode.com/problems/word-break-ii/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_break_II.py)
+### 133. [Clone Graph](https://leetcode.com/problems/clone-graph/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/clone_graph.py)
+用字典存分割的结果，dfs
 ### 141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/linked_list_cycle.py)
 一个slow一个fast，有环一定能重合
 ### 144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_preorder_traversal.py) 
@@ -493,7 +495,7 @@ sqrt
 dfs，记录位置
 ### 321. [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/create_maximum_numbers.py)
 枚举每个里面取的个数，得到能取到的最大的，再merge
-### 322. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) [|python|]()
+### 322. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reconstruct_itinerary.py)
 因为按字典序，图存到优先队列里，然后dfs
 ### 323. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_of_connected_components_in_an_undirected_graph.py) 
 bfs
@@ -857,7 +859,7 @@ start压栈，end弹栈
 按y排序，扫一遍用y更新当前值，初始-inf
 ###647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/palindromic_substrings.py)
 枚举中间点，向两边拓展
-###648. [Replace Words](https://leetcode.com/problems/replace-words) [|python|]()
+###648. [Replace Words](https://leetcode.com/problems/replace-words) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/replace_word.py)
 字典存到集合里，对句子中的单词，从短到长匹配
 ###650. [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/2_keys_keyboard.py)
 dp，初始dp[i]=i,之后如果能整除，更新
