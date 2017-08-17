@@ -425,7 +425,7 @@ dp，same和dif两个变量
 ### 278. [First Bad Version](https://leetcode.com/problems/first-bad-version) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/first_bad_version.py) 
 二分调api
 ### 279. [Perfect Squares](https://leetcode.com/problems/perfect-squares) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/perfect_squares.py) 
-how to prove 4^k(8*m+7)????
+how to prove 4^k(8m+7)????
 ### 280. [Wiggle Sort](https://leetcode.com/problems/wiggle-sort) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/wiggle_sort.cpp) 
 on找中位数算法，k largerst ，cpp好省事
 ### 281. [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/zigzag_iterator.py) 
@@ -446,6 +446,8 @@ slow fast建图
 模拟
 ### 290. [Word Pattern](https://leetcode.com/problems/word-pattern) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_pattern.py) 
 对应pattern和单词，判断是不是冲突
+### 291. [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/)
+用字典存模式，dfs回朔
 ### 292. [Nim Game](https://leetcode.com/problems/nim-game) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/nim_game.cpp) 
 mod4
 ### 293. [Flip Game](https://leetcode.com/problems/flip-game) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/flip_game.py) 
@@ -499,7 +501,7 @@ bfs
 ### 329. [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_increasing_path_in_a_matrix.py)
 first second两个，小更新，找到第三个
 ### 330. [Patching Array](https://leetcode.com/problems/patching-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/patching_array.py)
-找出现miss的数，如果有比他小的，就加这个数，否则*2
+找出现miss的数，如果有比他小的，就加这个数，否则乘2
 ### 334. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/increase_triplet_subsequence.py) 
 存最小的两个，如果有新的比这两个大，则为真
 ### 337. [House Robber III](https://leetcode.com/problems/house-robber-iii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/house_robbrt_iii.py) 
@@ -537,7 +539,7 @@ log
 ### 356. [Line Reflection](https://leetcode.com/problems/line-reflection) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/line_reflection.py) 
 去重，排序，找到中点，用一半对应另一半
 ### 357. [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/count_numbers_with_unique_digits.py) 
-0，10，81是两位的，最后一个*t-1是下一个的
+0，10，81是两位的，最后一个乘t-1是下一个的
 ### 359. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/logger_rate_limiter.py) 
 用字典存时间
 ### 360. [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sort_transformed_array.py) 
@@ -581,7 +583,7 @@ xx sampling随机算法
 ### 384. [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/384.shuffle_an_array.cpp) 
 随机交换两个数
 ### 386. [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/lexicographical_numbers.py)
-存当前的数，根据情况对当前的数*10，+1，/10+1
+存当前的数，根据情况对当前的数 乘10，+1，/10+1
 ### 387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/first_unique_character_in_a_string.py) 
 用字典扫一遍
 ### 388. [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_absolute_file_path.py)
@@ -607,7 +609,7 @@ xx采样
 ### 399. [Evaluate Division](https://leetcode.com/problems/evaluate-division) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/evaluate_division.py) 
 能除的建图 bfs
 ### 400. [Nth Digit](https://leetcode.com/problems/nth-digit) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/nth_digit.py)
-找到对应的数，在找到位置，对应的数每次减去 l（每次加一）*count（每次乘10）
+找到对应的数，在找到位置，对应的数每次减去 l（每次加一）乘count（每次乘10）
 ### 401. [Binary Watch](https://leetcode.com/problems/binary-watch) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_watch.py) 
 确定小时 遍历分钟
 ### 402. [Remove K Digits](https://leetcode.com/problems/remove-k-digits) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_K_digit.py) 
@@ -615,7 +617,7 @@ xx采样
 ### 404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_left_leaves.py) 
 dfs
 ### 405. [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/convert_a_number_to_hexadecimal.py) 
-负数+2**32
+负数+2的32次方
 ### 406. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/queue_reconstration_by_height.py) 
 先按-x[0],x[1]排序，在p[1]插入p
 ### 408. [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/valid_word_abbreviation.py) 
@@ -677,7 +679,7 @@ dfs是不是从自己开始
 ### 452. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_number_of_arrows_to_burst_balloons.py)
 按横坐标排序，初始左右为正负无穷，对于不在范围里的气球，更新左右结果+1
 ### 453. [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_moves_to_equal_array_elements.py)
-数学，sum(num)-l*min(num)
+数学，sum(num)-l乘min(num)
 ### 454. [4Sum II](https://leetcode.com/problems/4sum-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/4Sim_II.py)
 把两个数组合并成一个，转换成2sum
 ### 455. [Assign Cookies](https://leetcode.com/problems/assign-cookies) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/assign_cookie.py)
@@ -813,7 +815,7 @@ dp类似与edit distance
 ###594. [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_harmonious_subsequence.py)
 所有数存到counter里，对于每个数看下个数在不在，如果在更新结果
 ###598. [Range Addition II](https://leetcode.com/problems/range-addition-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/range_addition_II.py)
-找到操作里最小的x和y，x*y为结果
+找到操作里最小的x和y，x乘y为结果
 ###599. [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_index_sum_of_two_lists.py)
 两个列表存到字典里，值为index，把公共的index和存到字典里，最小的key为结果
 ###605. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/can_place_flower.py)
@@ -833,7 +835,7 @@ dp类似与edit distance
 ###628. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_product_of_three_numbers.py)
 排序，结果为前三个和后三个拼的最大值
 ###630. [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/course_schedule_III.py)
-按结束时间排序，用优先队列从大到小，当前start>end pop并更新start，最后剩下的长度为结果
+按结束时间排序，用优先队列从大到小，当前start小于end pop并更新start，最后剩下的长度为结果
 ###633. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_square_numbers.py)
 遍历0到sqrt(n)
 ###635. [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/design_log_storage_system.py)
