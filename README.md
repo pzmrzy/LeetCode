@@ -228,6 +228,8 @@ dp，找到两次买卖的时间
 并查集
 ### 129. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_root_to_leaf_numbers.py) 
 dfs，传当前的值
+### 133. [Clone Graph](https://leetcode.com/problems/clone-graph/) [|python|]()
+存一个visit，dfs
 ### 134. [Gas Station](https://leetcode.com/problems/gas-station) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/gas_station.py)
 如果总和大于cost一定有结果，从头模拟如果不行就从不行的节点当头
 ### 135. [Candy](https://leetcode.com/problems/candy) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/candy.py) 
@@ -457,7 +459,7 @@ mod4
 ###297. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/serialize_and_deserialize_binary_tree.py)
 前序遍历，#为None，空格分开
 ### 298. [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_longest_consecutive_sequence.py) 
-
+遍历的时候向下传当前的长度，每次先更新结果
 ### 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/bulls_and_cows.py) 
 模拟
 ### 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_increasing_subsequence.py) 
@@ -752,16 +754,16 @@ dfs，如果符合则对下一个和当前的数进行交换
 bfs，如果是数填数，否则加入队
 ###530. [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_absolute_difference_in_BST.py)
 前序遍历的结果为从小到大的顺序，记录前一个值，求差
-###531. [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i) [|python|]()
-
+###531. [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/lonely_pixel_I.py)
+开两数组用来存每行每列有多少个，最后再遍历一次，判断这个点对应行列是否为1
 ###532. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/k-diff_pairs_in_an_array.py)
 数存到字典里，遍历字典key看相差k的key是否存在
-###533. [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii) [|python|]()
-
+###533. [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/lonely_pixel_II.py)
+和1类似，遍历的时候存把位置存到一个字典里，最后再遍历字典看行列是否为N
 ###535. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/encode_decode_tinyurl.py)
 url存到字典里，key为自增的数
-###536. [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) [|python|]()
-
+###536. [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/construct_binary_tree_from_string.py)
+找括号分两边子树，然后递归
 ###537. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) [|python|]()
 
 ###538. [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/convert_BST_to_greater_tree.py)
@@ -800,8 +802,8 @@ split空格reverse再join
 min(len(candies) / 2, len(set(candies)))
 ###581. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/shortest_unsorted_continuous_subarray.py)
 排序与没排序的比，找到第一个和最后一个不同的
-###582. [Kill Process](https://leetcode.com/problems/kill-process) [|python|]()
-
+###582. [Kill Process](https://leetcode.com/problems/kill-process) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/kill_process.py)
+先建有向图，然后bfs
 ###583. [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/delete_operation_for_two_strings.py)
 dp类似与edit distance
 ###592. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/fraction_addition_and_substraction.py)
@@ -834,8 +836,8 @@ dp类似与edit distance
 按结束时间排序，用优先队列从大到小，当前start>end pop并更新start，最后剩下的长度为结果
 ###633. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_square_numbers.py)
 遍历0到sqrt(n)
-###635. [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) [|python|]()
-
+###635. [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/design_log_storage_system.py)
+put就append，取的时候根据gra遍历一遍判断
 ###636. [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/exclusive_time_of_functions.py)
 start压栈，end弹栈
 ###637. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/average_of_levels_in_binary_tree.py)
