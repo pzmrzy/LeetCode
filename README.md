@@ -879,4 +879,4 @@ bfs，遇到的数先检查对应的是否出现过，否则存到集合里
 字典key为末尾的数，value优先队列所有以该数结尾的长度，如果前一个存在则append最短的
 ###660. [Remove 9](https://leetcode.com/problems/remove-9) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_9.py)
 换成九进制
-
+###661. [Image Smoother](https://leetcode.com/problems/image-smoother/)
