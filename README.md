@@ -882,3 +882,4 @@ bfs，遇到的数先检查对应的是否出现过，否则存到集合里
 ###661. [Image Smoother](https://leetcode.com/problems/image-smoother/)
 ###662. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 ###663. [Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/)
+###664. [Strange Printer](https://leetcode.com/problems/strange-printer/)
