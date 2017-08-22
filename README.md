@@ -880,4 +880,5 @@ bfs，遇到的数先检查对应的是否出现过，否则存到集合里
 ###660. [Remove 9](https://leetcode.com/problems/remove-9) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_9.py)
 换成九进制
 ###661. [Image Smoother](https://leetcode.com/problems/image-smoother/)
+###662. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 ###663. [Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/)
