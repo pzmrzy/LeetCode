@@ -746,6 +746,7 @@ mod7 取余
 ###515. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_largest_value_in_each_tree_row.py)
 遍历的时候把数存到对应列的字典里
 ###516. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_palindromic_subsequence.py)
+###517. [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
 dp, 记录ij 头尾，dp(i,j) = dp(i+1,j-1) if s[i]==s[j] else max(dp(i+1,j), dp(i, j-1))
 ###520. [Detect Capital](https://leetcode.com/problems/detect-capital) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/detect_capital.py)
 isupper, islower, istitle
