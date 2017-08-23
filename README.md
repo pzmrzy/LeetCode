@@ -80,6 +80,7 @@ BFS且记录位置
 对每两位的乘积存到对应位置上，再做一遍进位
 ### 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/wildcard_matching.py)
 dp，根据每一位进行状态转移
+### 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 ### 46. [Permutations](https://leetcode.com/problems/permutations)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutations.py) 
 BFS DFS
 ### 47. [Permutations II](https://leetcode.com/problems/permutations-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutation_II.py)
