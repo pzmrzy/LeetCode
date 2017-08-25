@@ -16,6 +16,7 @@
 先判断正负，不是0-9的break，用ord转成数
 ### 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/palindrome_number.py) 
 转成字符串，到n/2长度头尾比
+### 10. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
 ### 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) [|cpp|](https://leetcode.com/problems/container-with-most-water/) 
 头尾两个指针扫，两个的距离乘矮的是当前能装的最多的，下一次矮的往里移
 ### 12. [Integer to Roman](https://leetcode.com/problems/integer-to-roman) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/integer_to_roman.py) 
@@ -80,7 +81,8 @@ BFS且记录位置
 对每两位的乘积存到对应位置上，再做一遍进位
 ### 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/wildcard_matching.py)
 dp，根据每一位进行状态转移
-### 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+### 45. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/jump_game_II.py)
+贪心，记录当前可以调到的最远的距离，当当前点已经是最远的时候，开始跳下一次
 ### 46. [Permutations](https://leetcode.com/problems/permutations)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutations.py) 
 BFS DFS
 ### 47. [Permutations II](https://leetcode.com/problems/permutations-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/permutation_II.py)
@@ -747,8 +749,9 @@ mod7 取余
 ###515. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_largest_value_in_each_tree_row.py)
 遍历的时候把数存到对应列的字典里
 ###516. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_palindromic_subsequence.py)
-###517. [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
 dp, 记录ij 头尾，dp(i,j) = dp(i+1,j-1) if s[i]==s[j] else max(dp(i+1,j), dp(i, j-1))
+###517. [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/super_wash_machine.py)
+求平均，把数组变成demand，然后从第一个开始向后转移，需要转移最多的为结果
 ###520. [Detect Capital](https://leetcode.com/problems/detect-capital) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/detect_capital.py)
 isupper, islower, istitle
 ###521. [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_uncommon_subsequence_I.py)
@@ -881,7 +884,11 @@ bfs，遇到的数先检查对应的是否出现过，否则存到集合里
 字典key为末尾的数，value优先队列所有以该数结尾的长度，如果前一个存在则append最短的
 ###660. [Remove 9](https://leetcode.com/problems/remove-9) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_9.py)
 换成九进制
-###661. [Image Smoother](https://leetcode.com/problems/image-smoother/)
-###662. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
-###663. [Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/)
-###664. [Strange Printer](https://leetcode.com/problems/strange-printer/)
+###661. [Image Smoother](https://leetcode.com/problems/image-smoother/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/image_smoother.py)
+模拟，找一周的点求平均
+###662. [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/maximum_width_of_binary_tree.py)
+用字典记录每层最左边和最右边的位置，对应pos 的两个子树的位置为 2pos 和 2pos+1
+###663. [Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/equal_tree_partition.py)
+向一个集合里加入所有树的和，如果二分之一整个树的和在这个集合里则可以分割
+###664. [Strange Printer](https://leetcode.com/problems/strange-printer/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/strange_printer.py)
+dp，dp(i,j)为i到j的最小值，枚举分割中点，dp(i,j) = min(dp(i+1,j)+1, dp(i,k-1), dp(k+1,j))
