@@ -622,6 +622,8 @@ xx采样
 确定小时 遍历分钟
 ### 402. [Remove K Digits](https://leetcode.com/problems/remove-k-digits) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_K_digit.py) 
 贪心，注意0
+### 403. [Frog Jump](https://leetcode.com/problems/frog-jump/)
+dfs，注意不能跳0步
 ### 404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_left_leaves.py) 
 dfs
 ### 405. [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/convert_a_number_to_hexadecimal.py) 
