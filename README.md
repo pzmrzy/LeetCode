@@ -324,6 +324,8 @@ dummy，等于就跳
 字典树
 ### 210. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/course_schedule_II.py) 
 拓扑排序
+### 212. [Word Search II](https://leetcode.com/problems/word-search-ii/)
+trie+dfs
 ### 213. [House Robber II](https://leetcode.com/problems/house-robber-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/house_robber_II.py) 
 环可以变成两次dp，偷不偷最后一个
 ### 215. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/kth_largest_element_in_an_array.py) 
