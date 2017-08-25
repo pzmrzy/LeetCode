@@ -586,6 +586,8 @@ dfs
 优先队列
 ### 379. [Design Phone Directory](https://leetcode.com/problems/design-phone-directory) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/design_phone_dictionary.py) 
 用字典
+### 380. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+把数存到数组里，用字典存对应文字，在删除的时候，把最后一个数组最后一个元素移到该位置
 ### 382. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/linked_list_random_node.py) 
 xx sampling随机算法
 ### 383. [Ransom Note](https://leetcode.com/problems/ransom-note) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/ransom_note.py) 
