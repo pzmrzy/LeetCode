@@ -732,6 +732,8 @@ dp存差dp(j,j+1)=max(num(j+1)-dp(j,j+i-1),num(j)-dp(j+1,j+i))
 用itertool生成所有组合并判断
 ### 492. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/construct_the_rectangle.py)
 对面积开方，从中间向两边扫
+### 494. [Target Sum](https://leetcode.com/problems/target-sum/)
+dp，结果存在dp(i, sum+1000),dp(i,j)=dp(i+1,j+num[i])+dp(i+1,j-num[i])
 ### 495. [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/teemo_attacking.py)
 结果加 min(相邻两次攻击时间差，持续时间的)
 ### 496. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/next_greater_element_I.py) 
