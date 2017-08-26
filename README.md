@@ -816,6 +816,8 @@ split空格reverse再join
 存一个visit数组初始false，每个数只能被visit一遍，遇到true的更新结果
 ###566. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reshape_the_matrix.py)
 如果可以转，把数组拆成一维迭代器再拼
+###567. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+先把s1存在字典里，遍历s2放到另外一个字典里比较
 ###572. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/subtree_of_another_tree.py)
 递归和两个子树比，比的时候也递归比
 ###575. [Distribute Candies](https://leetcode.com/problems/distribute-candies) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/distribut_candies.py)
