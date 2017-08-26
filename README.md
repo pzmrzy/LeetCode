@@ -296,6 +296,8 @@ count > n/2
 贪心，写一个比较函数
 ### 186. [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_words_in_a_string_II.py) 
 如果是空格翻转，最后一起再翻转
+### 187. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+把出现过的存在一个集合里，如果再次出现就加到结果里
 ### 189. [Rotate Array](https://leetcode.com/problems/rotate-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/rotate_array.py) 
 切片
 ### 190. [Reverse Bits](https://leetcode.com/problems/reverse-bits) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_bits.py) 
