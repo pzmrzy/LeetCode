@@ -798,6 +798,8 @@ url存到字典里，key为自增的数
 根据奇偶和前后是否相等进行二分
 ###541. [Reverse String II](https://leetcode.com/problems/reverse-string-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_string_II.py)
 flag记录是否反正
+###542. [01 Matrix](https://leetcode.com/problems/01-matrix/)
+先从左上到右下扫一遍更新，再右下到左上扫一遍更新
 ###543. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/diameter_of_binary_tree.py)
 dfs，深度为左右子树最大深度+1，更新结果
 ###547. [Friend Circles](https://leetcode.com/problems/friend-circles) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/friend_circles.py)
