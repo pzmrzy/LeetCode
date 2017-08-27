@@ -908,3 +908,10 @@ bfs，遇到的数先检查对应的是否出现过，否则存到集合里
 向一个集合里加入所有树的和，如果二分之一整个树的和在这个集合里则可以分割
 ###664. [Strange Printer](https://leetcode.com/problems/strange-printer/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/strange_printer.py)
 dp，dp(i,j)为i到j的最小值，枚举分割中点，dp(i,j) = min(dp(i+1,j)+1, dp(i,k-1), dp(k+1,j))
+###665. [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
+从前后扫两遍，每次扫只能换一个数
+###666. [Path Sum IV](https://leetcode.com/problems/path-sum-iv/)
+先把树存到数组里，然后dfs遍历
+###667. [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii)
+加入k=4，先15243这样拍，剩下的顺序放
+###668. [Kth largest Number in Multiplication Table](https://leetcode.com/problems/kth-largest-number-in-multiplication-table/)
