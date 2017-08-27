@@ -692,6 +692,8 @@ dfs是不是从自己开始
 用数组的index做hash，出现过则变成负数
 ### 449. [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/serialize_and_deserialize_BST.py) 
 序列化用前序遍历空格分开，恢复时用deque，递归建树
+### 450. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+如果比根大，向左找，否则向右，当找到时如果只要一个子树就返回，否则将根换成右子树的最小值，并删除该点
 ### 451. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sort_characters_by_frequency.py)
 存到字典里按顺序输出
 ### 452. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_number_of_arrows_to_burst_balloons.py)
