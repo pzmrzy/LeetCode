@@ -440,6 +440,8 @@ how to prove 4^k(8m+7)????
 on找中位数算法，k largerst ，cpp好省事
 ### 281. [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/zigzag_iterator.py) 
 先遍历了
+### 282. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+dfs，注意处理00开头的情况
 ### 283. [Move Zeroes](https://leetcode.com/problems/move-zeroes) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/move_zeroes.cpp) 
 找到0删了，最后再加，或者直接换到后面
 ### 284. [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/peeking_iterator.py)
