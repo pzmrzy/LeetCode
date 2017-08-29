@@ -231,6 +231,8 @@ dp，找到两次买卖的时间
 并查集
 ### 129. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_root_to_leaf_numbers.py) 
 dfs，传当前的值
+###131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+dfs，存路径
 ### 133. [Clone Graph](https://leetcode.com/problems/clone-graph/) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/clone_graph.py)
 存一个visit，dfs
 ### 134. [Gas Station](https://leetcode.com/problems/gas-station) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/gas_station.py)
@@ -834,6 +836,8 @@ split空格reverse再join
 递归和两个子树比，比的时候也递归比
 ###575. [Distribute Candies](https://leetcode.com/problems/distribute-candies) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/distribut_candies.py)
 min(len(candies) / 2, len(set(candies)))
+###576. [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
+用两个数组迭代，如果出范围就加到结果里
 ###581. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/shortest_unsorted_continuous_subarray.py)
 排序与没排序的比，找到第一个和最后一个不同的
 ###582. [Kill Process](https://leetcode.com/problems/kill-process) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/kill_process.py)
