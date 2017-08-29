@@ -840,6 +840,8 @@ min(len(candies) / 2, len(set(candies)))
 先建有向图，然后bfs
 ###583. [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/delete_operation_for_two_strings.py)
 dp类似与edit distance
+###591. [Tag Validator](https://leetcode.com/problems/tag-validator/)
+用正则，先替换掉cdata为t，然后替换tag为t，直到不能换为止，如果最后结果为t则是validate的
 ###592. [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/fraction_addition_and_substraction.py)
 拆出来所有数，按顺序加起来，最后约分
 ###593. [Valid Square](https://leetcode.com/problems/valid-square) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/valid_square.py)

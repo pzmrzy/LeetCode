@@ -5,6 +5,29 @@ class Solution(object):
         :type maxWidth: int
         :rtype: List[str]
         """
+        res, cur, numLetter = [], [], 0
+        for w in words:
+            if numLetter + len(w) + len(cur) > maxWidth:
+                if len(cur) == 1:
+                    res.append(cur[0] + ' ' * (maxWidth - numLetter))
+                else:
+                    space = maxWidth - numLetter
+                    gap, extra = divmod(space, len(cur) - 1)
+                    for i in range(extra):
+                        cur[i] += ' '
+                    res.append((' ' * gap).join(cur))
+                cur, numLetter = [], 0
+            cur.append(w)
+            numLetter += len(w)
+        res.append(' '.join(cur) + ' ' * (maxWidth - numLetter - len(cur) + 1))
+        return res
+class Solution(object):
+    def fullJustify(self, words, maxWidth):
+        """
+        :type words: List[str]
+        :type maxWidth: int
+        :rtype: List[str]
+        """
         tmp = 0
         res = []
         tw = []
