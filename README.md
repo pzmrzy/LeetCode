@@ -548,6 +548,8 @@ log
 用字典统计个数，取小的
 ### 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/android_unlock_patterns.py) 
 写好每个数能去哪个数 然后dfs
+### 352. [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+用heapq，add的时候加入一个长度为一的区间，get的时候合并区间
 ###354. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/russian_doll_envelopes.py)
 按x[0],-x[x]排序，二分
 ### 355. [Design Twitter](https://leetcode.com/problems/design-twitter) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/design_twitter.py) 
