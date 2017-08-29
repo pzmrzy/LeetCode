@@ -756,6 +756,8 @@ dp，结果存在dp(i, sum+1000),dp(i,j)=dp(i+1,j+num[i])+dp(i+1,j-num[i])
 先把键盘的行数存到字典里，挨个单词判断
 ### 501. [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_mode_in_binary_search_tree.py)
 遍历树，把值存到字典里
+### 502. [IPO](https://leetcode.com/problems/ipo/)
+两个优先队列，一个captial从小到大，一个profit从大到小，贪心每次选取profit最大的，然后更新两个优先队列
 ###503. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/next_greater_element_II.py)
 用栈存，初始为倒序，从后开始遍历，如果栈顶小于当前的数pop直到没，当前的结果位栈顶对应的数
 ###504. [Base 7](https://leetcode.com/problems/base-7) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/base_7.py)
