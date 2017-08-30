@@ -45,6 +45,8 @@
 所有链表的头存在优先队列里，每次合并pop出来一个，并更新这个头位它的next
 ### 24. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/swap_nodes_in_pairs.py) 
 三个指针，第一个第二个换，第三个迭代
+### 25. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+两个指针lr找范围，找满k个或者列表结束换，如果不满返回结果
 ### 26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_duplicates_from_sorted_array.py) 
 两个指针，前一个指向不重复的，如果有新的不重复的就拷贝的前面
 ### 27. [Remove Element](https://leetcode.com/problems/remove-element) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/remove_element.py) 
@@ -173,6 +175,8 @@ dummy头指针，当前指针走到重复的最后一个，如果前一个指针
 相当于1，然后去重。。。正常应该是记录位置
 ### 91. [Decode Ways](https://leetcode.com/problems/decode-ways) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/decode_ways.py) 
 dp注意整10 的情况，以及多个0
+### 92. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+用到四个指针dummy,pre,start,then,先找到开始换的节点，把每个换到pre的下一个
 ### 93. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/resore_ip_address.py) 
 记录位置dfs
 ### 94. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_inorder_traversal.py) 
@@ -183,6 +187,8 @@ dfs左根右
 dp，每多一个数，结果为前面所有分着乘
 ### 98. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/validate_binary_search_tree.py) 
 递归检查左右子树，要传最大最小界
+### 99. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+中序遍历，找到两个顺序反的结点，交换
 ### 100. [Same Tree](https://leetcode.com/problems/same-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/same_tree.py)https://github.com/pzmrzy/LeetCode/blob/master/python/symmetric_tree.py 
 递归左右子树
 ### 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/symmetric_tree.py) 
