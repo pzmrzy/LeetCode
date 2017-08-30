@@ -105,6 +105,8 @@ DFS，同上
 如果能跳到n一定能到n-1倒着跳
 ### 56. [Merge Intervals](https://leetcode.com/problems/merge-intervals) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/merge_intervals.py)
 按开始从小到大排序，如果有重合则更新当前区间结束点，否则在结果中增加当前区间
+### 57. [Insert Interval](https://leetcode.com/problems/insert-interval/)
+把新的加到一起排序，然后顺序合并
 ### 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/length_of_last_word.py) 
 split之后返回最后一个长度
 ### 59. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/spiral_matrix_II.py) 
