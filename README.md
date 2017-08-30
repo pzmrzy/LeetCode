@@ -646,6 +646,8 @@ dfs
 判断是不是
 ### 409. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_palindrome.py) 
 统计多少个是偶数次
+### 410. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+二分答案
 ### 411. [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/minimum_unique_word_abbreviation.py) 
 去掉长度不一样的，然后利用前面的生成，然后从最短的开始找
 ### 412. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/fizz_buzz.py) 
