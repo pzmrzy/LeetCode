@@ -947,5 +947,7 @@ dp，dp(i,j)为i到j的最小值，枚举分割中点，dp(i,j) = min(dp(i+1,j)+
 ###668. [Kth largest Number in Multiplication Table](https://leetcode.com/problems/kth-largest-number-in-multiplication-table/)
 ### 669. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)
 dfs, 小于L返回右子树，大于R返回左子树
+### 671. [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+根是最小的，找比根大最小的
 ### 672. [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)
 只用考虑m，n<=2的情况，大于是8
