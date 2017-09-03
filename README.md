@@ -945,3 +945,7 @@ dp，dp(i,j)为i到j的最小值，枚举分割中点，dp(i,j) = min(dp(i+1,j)+
 ###667. [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii)
 加入k=4，先15243这样拍，剩下的顺序放
 ###668. [Kth largest Number in Multiplication Table](https://leetcode.com/problems/kth-largest-number-in-multiplication-table/)
+### 669. [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree)
+dfs, 小于L返回右子树，大于R返回左子树
+### 672. [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)
+只用考虑m，n<=2的情况，大于是8
