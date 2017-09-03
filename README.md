@@ -163,6 +163,8 @@ dummy头指针，当前指针走到重复的最后一个，如果前一个指针
 等于next就删
 ### 84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/largest_rectangle_in_histogram.py)
 用栈存当前高度，如果比下一个高就pop，并算新的面积
+### 85. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
 ### 86. [Partition List](https://leetcode.com/problems/partition-list) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/partition_list.py)
 遍历一遍分成两个链表，最后再合并起来
 ### 87. [Scramble String](https://leetcode.com/problems/scramble-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/scramble_string.py)
