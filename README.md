@@ -219,6 +219,7 @@ bfs，找到叶节点结束
 bfs，搜到所有叶节点
 ### 113. [Path Sum II](https://leetcode.com/problems/path-sum-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/path_sum_II.py) 
 bfs时要记录路径
+### 114/ []tten Binary Tree to Linked List(https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 ### 116. [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 pre记录下一行的开始，用next指针遍历一行
 ### 118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/pascal_triangle.py) 
