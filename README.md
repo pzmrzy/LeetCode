@@ -693,6 +693,8 @@ trie,dfs
 如果是空格状态为0字母为1，0的时候状态为1，结果+1
 ### 435. [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/non_overlapping_intervals.py)
 按开始排序，扫一遍和前面比
+### 436. [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+先排序，然后二分搜索
 ### 437. [Path Sum III](https://leetcode.com/problems/path-sum-iii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/path_sum_III.py) 
 dfs是不是从自己开始
 ### 438. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_all_anagrams_in_a_string.py) 
