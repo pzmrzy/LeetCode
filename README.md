@@ -449,6 +449,8 @@ xor之后找最后一个1，然后分成两组xor，两组的结果就是
 1到19先写好，写一个转1k以下的，然后多少b多少m多少k
 ### 274. [H-Index](https://leetcode.com/problems/h-index) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/H-index.py) 
 记录每个citation有几篇文件，然后倒着扫
+### 275. [H-Index II](https://leetcode.com/problems/h-index-ii)
+二分
 ### 276. [Paint Fence](https://leetcode.com/problems/paint-fence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/paint_fence.py) 
 dp，same和dif两个变量
 ### 277. [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_the_celebrity.py) 
