@@ -256,6 +256,8 @@ dfs，存路径
 贪心，先正着给，再反着给
 ### 136. [Single Number](https://leetcode.com/problems/single-number) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/single_numbers.py) 
 xor一遍
+### 138. [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+用defaultdict存node
 ### 139. [Word Break](https://leetcode.com/problems/word-break) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_break.py) 
 db拆不拆
 ### 140. [Word Break II](https://leetcode.com/problems/word-break-ii/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/word_break_II.py)
