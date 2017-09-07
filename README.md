@@ -501,6 +501,8 @@ mod4
 模拟
 ### 300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_increasing_subsequence.py) 
 最长递升子序列，log的dp
+### 301. [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+bfs
 ### 302. [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/smallest_rectangle_enclosing_black_pixels.py) 
 遍历每个点更新四个角，最后求面积
 ### 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/range_sum_query_immutable.cpp) 
