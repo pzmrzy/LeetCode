@@ -809,6 +809,7 @@ mod7 取余
 dp, 记录ij 头尾，dp(i,j) = dp(i+1,j-1) if s[i]==s[j] else max(dp(i+1,j), dp(i, j-1))
 ###517. [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)[|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/super_wash_machine.py)
 求平均，把数组变成demand，然后从第一个开始向后转移，需要转移最多的为结果
+### 518. [Coin Change 2](https://leetcode.com/problems/coin-change-2)
 ###520. [Detect Capital](https://leetcode.com/problems/detect-capital) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/detect_capital.py)
 isupper, islower, istitle
 ###521. [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/longest_uncommon_subsequence_I.py)
