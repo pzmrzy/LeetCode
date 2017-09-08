@@ -275,6 +275,8 @@ db拆不拆
 用栈，注意6/-132 = 0, python = -1
 ### 151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_words_in_a_string.py) 
 先split，reverse，再join回去
+### 152. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+先用0分开数组，对每个部分分别求，取最多偶数个负数的subarray
 ### 153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_minimum_in_rotated_sorted_array.py) 
 二分找最小的
 ### 154. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_minimum_in_rotated_sorted_array_II.py)
