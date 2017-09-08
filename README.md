@@ -509,6 +509,8 @@ bfs
 遍历每个点更新四个角，最后求面积
 ### 303. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/range_sum_query_immutable.cpp) 
 部分和
+### 304. [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+二维部分和
 ### 305. [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/number_of_islands_II.py) 
 并查集
 ### 307. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/range_sum_query_mutable.py) 
