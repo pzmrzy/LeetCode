@@ -973,3 +973,11 @@ dfs, 小于L返回右子树，大于R返回左子树
 根是最小的，找比根大最小的
 ### 672. [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)
 只用考虑m，n<=2的情况，大于是8
+### 673. [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+n方的最长递增子序列，新建一个数组记录有多少方法
+### 674. [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+扫一遍，递增+1，否则清0
+### 675. []()
+
+### 676. [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)
+建立字典时将每个单词拆成长度个项，做为key存在字典里，搜索的时候也拆成长度个去查找，拆是只把每一位换成下划线
