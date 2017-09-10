@@ -549,6 +549,8 @@ first second两个，小更新，找到第三个
 找出现miss的数，如果有比他小的，就加这个数，否则乘2
 ### 334. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/increase_triplet_subsequence.py) 
 存最小的两个，如果有新的比这两个大，则为真
+### 335. [Self Crossing](https://leetcode.com/problems/self-crossing/)
+考虑每连续六个，两种情况可能相交
 ### 337. [House Robber III](https://leetcode.com/problems/house-robber-iii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/house_robbrt_iii.py) 
 如果抢，就dp下两层的，不抢就一层的，用负数表是是不是求过
 ### 338. [Counting Bits](https://leetcode.com/problems/counting-bits) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/counting_bits.py) 
