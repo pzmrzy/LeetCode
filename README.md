@@ -915,6 +915,8 @@ dp类似与edit distance
 排序，结果为前三个和后三个拼的最大值
 ###630. [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/course_schedule_III.py)
 按结束时间排序，用优先队列从大到小，当前start小于end pop并更新start，最后剩下的长度为结果
+### 632. [Smallest Range](https://leetcode.com/problems/smallest-range/)
+用优先队列维护每一列的最小值，同时记录左右，当一个列结束返回结果
 ###633. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/sum_of_square_numbers.py)
 遍历0到sqrt(n)
 ###635. [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/design_log_storage_system.py)
