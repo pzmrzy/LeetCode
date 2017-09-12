@@ -945,6 +945,8 @@ start压栈，end弹栈
 枚举中间点，向两边拓展
 ###648. [Replace Words](https://leetcode.com/problems/replace-words) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/replace_word.py)
 字典存到集合里，对句子中的单词，从短到长匹配
+###649. [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+贪心，每次都ban掉下个对方，用两个队列存双方的位置，当a可以ban掉b的时候，把a+n加到queue中
 ###650. [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/2_keys_keyboard.py)
 dp，初始dp[i]=i,之后如果能整除，更新
 ###652. [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/find_duplicate_subtrees.py)
