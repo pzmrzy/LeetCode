@@ -276,6 +276,8 @@ db拆不拆
 左右根
 ### 146. [LRU Cache](https://leetcode.com/problems/lru-cache) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/lru_cache.py) 
 字典存值，list存位置，每次写的时候都放到最后，满了删最前
+### 148. [Sort List](https://leetcode.com/problems/sort-list/)
+
 ### 150. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 用栈，注意6/-132 = 0, python = -1
 ### 151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/reverse_words_in_a_string.py) 
