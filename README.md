@@ -268,6 +268,8 @@ db拆不拆
 用字典存分割的结果，dfs
 ### 141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/linked_list_cycle.py)
 一个slow一个fast，有环一定能重合
+### 142. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+方法和1相同
 ### 144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_preorder_traversal.py) 
 根左右
 ### 145. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/binary_tree_postorder_traversal.py) 
