@@ -308,6 +308,8 @@ db拆不拆
 相等跳过，差一加一，否则输出，注意单个的
 ### 165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/compare_version_numbers.py) 
 split之后直接比
+### 166. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+存每次除的余数，出现重复的时候结束结束循环，这个重复的余数为循环节开始的地方
 ### 167. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/two_sum_II.py) 
 确定一个二分第二个
 ### 168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) [|cpp|](https://github.com/pzmrzy/LeetCode/blob/master/cpp/excel_sheet_column_title.cpp) 
