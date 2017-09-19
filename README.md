@@ -998,3 +998,4 @@ n方的最长递增子序列，新建一个数组记录有多少方法
 建立字典时将每个单词拆成长度个项，做为key存在字典里，搜索的时候也拆成长度个去查找，拆是只把每一位换成下划线
 ### 677. [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
 Trie数，按路径更新差
+### 679. [24 Game](https://leetcode.com/problems/24-game/)
