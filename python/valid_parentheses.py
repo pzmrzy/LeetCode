@@ -1,20 +1,16 @@
-import Queue
 class Solution(object):
     def isValid(self, s):
         """
         :type s: str
         :rtype: bool
         """
-        left = ['(', '[', '{']
-        dic = {'(':')', '[':']', '{':'}'}
-        q = Queue.LifoQueue()
+        stack = []
+        dic = {']':'[', ')':'(', '}':'{'}
+        left = set(['(', '[', '{'])
         for c in s:
             if c in left:
-                q.put(c)
+                stack.append(c)
             else:
-                if q.empty():
+                if len(stack) == 0 or stack.pop() != dic[c]:
                     return False
-                t = q.get()
-                if dic[t] != c:
-                    return False
-        return q.empty()
+        return stack == []

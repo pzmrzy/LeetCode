@@ -1,4 +1,15 @@
 class Solution(object):
+    def mySqrt(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        res = x / 2 + 1
+        while res * res > x:
+            res = (res + x / res) / 2
+        return res
+
+class Solution(object):
     def find(self, x, l, r):
         m = (l + r) / 2
         if (m * m <= x and (m+1) * (m+1) > x):
