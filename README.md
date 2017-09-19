@@ -998,6 +998,8 @@ n方的最长递增子序列，新建一个数组记录有多少方法
 建立字典时将每个单词拆成长度个项，做为key存在字典里，搜索的时候也拆成长度个去查找，拆是只把每一位换成下划线
 ### 677. [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
 Trie数，按路径更新差
+### 678. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+lr记录当前最少和最多没匹配的左括号，r不能小于0，最后判断l是否为0
 ### 679. [24 Game](https://leetcode.com/problems/24-game/)
 ### 680. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 先正常检查，如果不匹配就左边+1或者右边-1，继续匹配，但标记是否记录过
