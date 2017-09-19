@@ -999,3 +999,5 @@ n方的最长递增子序列，新建一个数组记录有多少方法
 ### 677. [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
 Trie数，按路径更新差
 ### 679. [24 Game](https://leetcode.com/problems/24-game/)
+### 680. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+先正常检查，如果不匹配就左边+1或者右边-1，继续匹配，但标记是否记录过
