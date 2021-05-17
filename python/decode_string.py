@@ -1,3 +1,31 @@
+    class Solution(object):
+        def decodeString(self, s):
+            """
+            :type s: str
+            :rtype: str
+            """
+            def decode(ind):
+                level = num = 0
+                ss = ''
+                while ind < len(s):
+                    if s[ind] == '[':
+                        level += 1
+                        a, ind = decode(ind + 1)
+                        ss += a * num
+                        num = 0
+                    elif s[ind] == ']':
+                        if level > 0:
+                            level -= 1
+                        else:
+                            return ss, ind - 1
+                    elif s[ind].isdigit():
+                        num *= 10
+                        num += int(s[ind])
+                    else:
+                        ss += s[ind]
+                    ind += 1
+                return ss, ind
+            return decode(0)[0]
 import Queue
 class Solution(object):
     def decodeString(self, s):

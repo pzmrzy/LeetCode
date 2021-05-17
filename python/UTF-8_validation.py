@@ -1,4 +1,28 @@
 class Solution(object):
+    def validUtf8(self, data):
+        """
+        :type data: List[int]
+        :rtype: bool
+        """
+        if len(data) == 0:
+            return False
+        ct = 0
+        for n in data:
+            if ct == 0:
+                if n >> 5 == 0b110:
+                    ct = 1
+                elif n >> 4 == 0b1110:
+                    ct = 2
+                elif n >> 3 == 0b11110:
+                    ct = 3
+                elif n >> 7 != 0:
+                    return False
+            else:
+                if n >> 6 != 0b10:
+                    return False
+                ct -= 1
+        return ct == 0
+class Solution(object):
     def check(self, data):
         l = len(data)
         if l == 1:

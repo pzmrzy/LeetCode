@@ -1,11 +1,10 @@
 class Solution(object):
-    def bfs(self, matrix, q):
+    def dfs(self, matrix, q):
         m = len(matrix)
         n = len(matrix[0])
         ret = set([])
         while len(q) > 0:
-            i, j = q[0]
-            del q[0]
+            i, j = q.pop()
             ret.add((i, j))
             height = matrix[i][j]
             if i > 0 and matrix[i - 1][j] >= height:
@@ -40,14 +39,14 @@ class Solution(object):
             q.append((i, 0))
         for i in range(n):
             q.append((0, i))
-        pac = self.bfs(matrix, q)
+        pac = self.dfs(matrix, q)
 
         q = []
         for i in range(m):
             q.append((i, n - 1))
         for i in range(n):
             q.append((m - 1, i))
-        atl = self.bfs(matrix, q)
+        atl = self.dfs(matrix, q)
 
         ans = pac.intersection(atl)
         return [list(x) for x in ans]

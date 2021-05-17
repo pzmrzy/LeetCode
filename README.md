@@ -418,6 +418,8 @@ count。。
 和一一样，注意只有两个指针不等才更新
 ### 246. [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/strobogrammatic_number.py) 
 找好对应的，扫一半+1
+### 247. [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)
+递归，奇数是向n-2的中间插一位的，偶数是向n-2的中间插两位的
 ### 249. [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/group_shifted_strings.py) 
 用两个字母的差当key，然后分组
 ### 250. [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/count_univalue_subtrees.py) 
@@ -590,6 +592,8 @@ log
 写好每个数能去哪个数 然后dfs
 ### 352. [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
 用heapq，add的时候加入一个长度为一的区间，get的时候合并区间
+### 353. [Design Snake Game](https://leetcode.com/problems/design-snake-game/)
+使用deque存蛇和食物`
 ###354. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)  [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/russian_doll_envelopes.py)
 按x[0],-x[x]排序，二分
 ### 355. [Design Twitter](https://leetcode.com/problems/design-twitter) [|python|](https://github.com/pzmrzy/LeetCode/blob/master/python/design_twitter.py) 

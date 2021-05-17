@@ -1,4 +1,33 @@
 class Solution(object):
+    def gameOfLife(self, board):
+        """
+        :type board: List[List[int]]
+        :rtype: void Do not return anything, modify board in-place instead.
+        """
+        m = len(board)
+        n = len(board[0])
+        d = [(1, 0), (-1, 0), (0, 1), (0, -1), (-1, -1), (-1, 1), (1, -1), (1, 1)]
+        for i in range(m):
+            for j in range(n):
+                live = 0
+                for tx, ty in d:
+                    x, y = i + tx, j + ty
+                    if x < 0 or x == m or y < 0 or y == n:
+                        continue
+                    if board[x][y] & 1:
+                        live += 1
+                if board[i][j] == 0:
+                    if live == 3:
+                        board[i][j] = 2
+                else:
+                    if 2 <= live <= 3:
+                        board[i][j] = 3
+                    else:
+                        board[i][j] = 1
+        for i in range(m):
+            for j in range(n):
+                board[i][j] >>= 1
+class Solution(object):
     def check(self, x, y, X, Y):
         if ((x < 0) or (y < 0) or (x > X) or (y > Y)):
             return False

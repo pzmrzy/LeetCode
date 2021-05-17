@@ -4,6 +4,23 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        if len(s) == 0:
+            return 0
+        l = len(s)
+        dp = [0] * (l + 1)
+        dp[-1] = 1
+        dp[-2] = 0 if s[-1] == '0' else 1
+        for i in range(l - 2, -1, -1):
+            if s[i] == '0':
+                continue
+            dp[i] = dp[i + 1] + dp[i + 2] if int(s[i: i+2]) <= 26 else dp[i + 1]
+        return dp[0]
+class Solution(object):
+    def numDecodings(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
         if s == "" or s[0] == "0":
             return 0
         pat = ['00', '30', '40', '50', '60', '70', '80', '90']
